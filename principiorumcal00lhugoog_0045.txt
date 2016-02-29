@@ -1,0 +1,50 @@
+5
+
+ferentiae C' X. Si vero utraque illarum subtrahatur ab eadem quantitate AC':-
+prius refiduum θ’ Β limes est posterioris refidui decrescentis C''X. . Quod per se
+patet. ⁸
+
+ᾗ, 3. Theoremae. Sit quantitas data limes quantitatis mutabilis crescen* ·
+tis vel decrescentis. Dico rationem aequalitatis limitem effe rationis decre·-
+scentis vel crescentis ‚ prioris quantitatis ad posteriorem.
+
+Nempe. Sit quantitas data AB limes quantitatis crescentis v. gr. Ax
+Dico rationem AB: AX posse accedere ad rationem aequalitatis, propius quam
+ad eam accedit data quaecunque ratio majoris ad minorem.⁴
+
+Demorfiratio. Quaecunque detur ratio majoris ad minorem ς fiat ipsi aequa-
+lis ratio AB ad AD, quae minor erit quam AB. ‚Et fiat AX 5> AD„ (quod
+poffibile est per hyp.)x Erit AB ε AX < AB : AD. (a)
+
+Eodem modo demonstratur de altero Limite.
+
+Vug‘ffim fi ratio aequalitatis fuerit limes rationis decrescentis aut crescentis
+alicujus quantitatis datae ad quantitatem mutabilem: Dico quantitatem datam
+limitem esse quantitatis mutabilis crescentis aut decrescentis-
+
+Sit (ex. gr.) ratio aequalitatis limes rationis decrescentis quantitatis datae
+AB ad quantitatem mutabilem AX. Dico: quantitatem mutabilem AX poss'e
+fieri majorem quacunque quantitate data AD, quae minor est quam AB.
+
+Etenim per hyp. ratio AB ·. AX potest fieri minor ratione data AB AD
+
+majoris ad minorem. Fastum fit· et cum AB 2 AX <2 AB ι AD
+erit AX > AD.
+
+Eodem modo demonstratur de altero limite.
+
+..Exempla Cum perimeter δι superficies circuli limites sint perImetrorum .
+δι superficierum crescentium aut decrescentium polygonorum ordinatorum, ‘quae
+circulo inscribuntur δι circumscribuntur: ratio aequalitatis est limes rationum
+
+A 3 decre-
+
+(a) Quoniam demonstrationes plerarumque propofitionum hoc Capite evolaturum inae-
+qualium rationum proprietatibus nituntur: fi cui non fuerint satis notat-3 ille* adeat
+eximiam Dissertationem inscriptam·¹ propositionum· de Rationibus inter se diver-fis
+
+· Demonstrationes, ex solis Libri V. Element. definitionibus &propositionibus de-
+
+, duem,- quam Praeiide celeb. Prof. Panos-:nnn publice proposuit δι defendit ornat.
+Cadianum& Tubing.1793.
+

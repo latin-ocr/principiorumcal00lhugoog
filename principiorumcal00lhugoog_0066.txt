@@ -1,0 +1,45 @@
+'26
+
+Q <2 715le & proinde (per hyp. ὅ( §. ὁ.) Q potest reddi minor quacunque
+quantitate proposita.
+
+Olfirvatio 2 Quae dista suerunt de casu, quo numerus terminorum seriei Q
+datus est, applicari etiam, sub datis conditionibuS, poffunt ad casum, quo nu·
+merus terminorum est illimitatus. Quod accurate evolvi meretur, δι’ m Differ-
+tatione jam memorata Expcfition elementaire des Principes« des Calculs ficperieurs hand
+
+congrue fuerat omissum. ι
+
+1⁰. Coefficientes A, Β, C, D ..... sequantur legem aliquam decrescen-
+tem. Fiat x <¹ 2. Erit x¹ > 22:¹41.
+⁶ Sed ponitur L > Μ
+
+Ergo a fortiori Lx¹ t> 2Mx¹4¹. Proinde faf'co x<}‚ omnes ter-
+
+mini funftionis Q sequuntur progreffionem decrescentem, ὅ( quidem velocius
+quam progreffio geometrica, cujus quilibetterminus est subduplus termini prae-
+cedentiS. Proinde 2Ax major est summa progressionis, quicunque s1t numerus
+terminorum, δε Q potest reddi minor quacunque quantitate data.
+
+ό 20.Coe‘ff1cientes A, B, C, D· · · crescant juxta progressionem geome-
+tricam quamcunque. Sit ideo M == pL
+fasto x ς ...-
+21²
+erit x¹41 < ....-xl
+et 5 Mx¹41 <J {³521 seu Lxl t> 2Mx141. Ideo ter-
+minus quilibet minor erit duplo praecedentis· unde ut prius concludetur.
+30. Coefficientes A, B, C, D . . . . .’ crescant quidem, sed lentius quam
+
+juxta aliquam progreffionem geometricam.
+
+Ita omnes termini, qui priores duos subsequuntur, minores erunt, quam
+fi coefficientes dati crescerent juxta progressionem geometricam, cujus expo-
+nens effet exponens rationis secundi termini ad primum. Unde praecedens con-
+clusio valet a fortiori.
+
+40. Coefficientes A, B, C, D ..... crescant quidem a prImo inde usque
+ad coe'fflcientem datumL‚ velocius quam in progreffione geometrica, sed ab hoc
+
+.inde (ss crescere pergant) lentius quarn in progreffione geometrica crescant.
+Fiat
+

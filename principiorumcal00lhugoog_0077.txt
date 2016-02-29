@@ -1,0 +1,55 @@
+a- t
+37
+§. 25. Dtfinitiones. Limes rationis mutationum ‚ quas duae pluresve quan-
+titates mutabiles simul suscipiunt, dicatur earum ratio Azfferentialiu ὅ( ⁸exponens
+hujus rationis dicatur exponens differentialis. Operatio , qua ‚exponens differen-
+tialis quaeritur, dicatur daefferentiatio. Item: calculuS‚ qui occupatur rationibus
+
+Δ differentialibus investigandiS, dicatur calculus dzfferentialis.
+
+Sit Ρ funstio quantitatis mutabilis x; exponens differentialis harum quan·
+
+titatum designetur (-Ῑ-ξ. Item , fint P δι Q duae quantitates mutabiles quaecun-
+
+dx
+que, exponens differentialis harum quantitatum defignetur ἐξ. ’ Et symbola
+
+cie ἐς
+dx' ἀρ · · ,
+compositionis ratione habita.
+
+. . spectentur tanquam figna simplicia, nulla apparentis ipsorum
+
+Hinc, fi P est potentia ordinis cujuscunque n quantitatis mutabilis x,
+ἐξ ·-- men-¹ (§. 23.) Pariter sit Q potentia alterius ordinis m quantitatis mu·
+
+dx
+tabilis κς erit {g = nvem-1. Hinc {g = {scu-¹¹¹.
+Etenim lirrf. AP: Ax --- men-¹ :⁸ 1
+item limax :AQ = 1 :mxm‘1
+Ergo lim. ΔΡ ε AQ = men-1 ε mem-1 (§·14.) m
+seu gg = Empti-m· Α -
+
+Item: fit P fimstio quantitatis mutabilis x, qualis sequitur .
+Ρ --- Ax² -1- Bxb ÷Gxe ÷Dxd 4....÷Lx1 ÷Mxm 4-an
+
+fit {g = Λευεὶ-Ι ÷Bbxb·1÷ ccxc-14 Ddxd·1 ψ. . ..÷J,1x¹·1÷mem-1÷ Ναυῆ-1.
+§. 26„ Exercitii causa adjungam nonnulla exempla variarum funftionums
+
+Sint 'P δι Q duae quantitates mutabiles ‚ quae referanmfl νρῗῖ. ad eandem quan<
+
+dx. ⁶
+
+ 
+
+titatem mutabilem x.- quaeritur exponens differentialis
+
+E 3 (P4AP) '
+
+d’abord attae-her une¹ ide'e nette et precise α’, dv ‚ dx , dz,· afin que ces expreffions
+fignifient quelque chose par elles- mdmes et independamment les unes des autres.
+Cum nuperrime vlr adeo sagax ejusmodi difficultatem moverit, e re profetto esse cen-
+sendum est, in limine, δι cum prima illius figni introdustio'ne, lestorem de vera
+
+, ejus fignificatione monere.
+

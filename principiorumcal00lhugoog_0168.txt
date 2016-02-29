@@ -1,0 +1,46 @@
+128
+
+poffibilis fit, nec ne3 seu inquirendum est in rationem velocitatum, qua prae-
+dista poffibilitas aut impossibilitas determinatur. Algebrista autem non semper
+ita caute procedit, neque semperpraevium hoc examen instituit. Universali-
+tatis (nimio quandoque) studio impulsus formulas quaerit generaleS, quas ad
+omnes omnino casus flectere satagit, & iis etiam applicare, ad quos non qua-
+drant 3 quod hoc ipso exemplo patebit.
+
+Sint nimirum V, v, velocitates datae duorum viatorum A, B, intervallo
+:- D, primitus invicem distantium, & juxta eandem plagam progredientium,
+
+ita ut A ipsum B persequatur. Velocitate V polita majore quam υς quando
+
+viator A alterum B attingit, erit
+
+via ab B percursa D >< »¹3-
+
+V-v
+
+- -· A - - D >< 17}st & formulae hae apte omnino repraesentant
+
+casum, quo V t> v.
+
+Algebrista autem, omnes universim casus una eademque formula compleffl
+satagenS, quaerit etiam: quid juxta eas fiat, fi V ξ v?
+
+Casu autem, quo V ι.- v, expreffiones spatiorum ab utroque viatore percur-
+sorum ,transformantur-*in hanc D >< ἑ ; cujus significationem definire oportet.
+
+Ut cum sensu communi responsum hoc algebrae conveniat, aliter illud in·
+terpretari non possum, nisi dicendo: illud indicare exclusionem seu inlpoffibili-
+t'atem occursus mutui viatorum. Algebraista autem de occursu mutuo loqui
+pergenS, dum de illo agi amplius non potest, viatores fibi mutuo occurrere in,
+distantia infinita pronuntiat. Quae loquendi forma rite‘explicata nihil aliud figni-
+ficare potest, quam locum occursus mutui viatorum hoc casu affignari non poss‘e3
+nec ullibi unquam viatores fibi mutuo occurrere. Symbolum igitur -ὲ, quod
+formulis praecedentibus casui huic applicatis introducitur, de impoffibilitate quae·
+stionis nunc propofitae nos monet, eodem prorsus modo, quo ligna Υ-ι,
+
+32*— 1 impoffibilitatem docent solutionis ὅ( repugnantiam mutuam conditionum
+problematum, quorum tanquam possibilium trattatio algebraica figna illa intro-
+ducere coligit.
+
+, Quam·
+

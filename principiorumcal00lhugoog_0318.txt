@@ -1,0 +1,50 @@
+278·
+
+Fiat z constans: erit -
+
+Bfin.x4Cfin.(x÷y) :B cofix-ff-Ccos. (x-fl-y) = A [ιαμ-ΙΨ >÷B sin.y t A cofi(x-}-y)-l-Bcofiy.
+
+Fiat y constans} erit . .
+
+Bfin.x÷Cfin.(x÷y) ε Bcofix-ae-Ccosoc-iy) = fin.z ε coss(1800—z).
+
+Pariter, pofita x constante, fit .
+Afin.(x÷y)-1-Bfin.y ε Acofi(af-1ay)÷sscos.y --- sm.z ε cofi(1300-z); quae pro-
+portio jam resultat ex duabus praecedentibus,
+
+Duae istarum proportionum cum aequatione
+
+ΑΑ-Ι- 2AB cos.x Ἰ
+÷ 2Αο cos.(x÷y)-!- ΒΒ-Ι- 2BC cofiy—t- CC
+
+tres exhibent aeqnatione5‚ quibus quaestio proposita ad problema algebraicum
+determinatum reducitur. ’ ’ Δ ’
+
+= DD ÷ 2 DE cos. z 4- ΕΕ combinatae
+
+Tertium exemplum. Quaeratur hexagonum lateribus A, B ‚· C, ⁴D, E, F
+x magitudine datis comprehensum, cujus area fit omnium maxima.
+
+Angulus externus inter latera A, B comprehensus fit x
+B, C - - - ·- y
+
+E F . .
+Erit AA÷2A Bcofiae ‘ ‡ - DD-4-2DEcosoefll ·
+-l-2ACcos. (ae4y)÷BB4-2Bccocy÷cc ““” ÷2DFcoss<ae¹÷y> ⁸÷EE÷2EFcos.y' ÷FF
+et ABfin.x , ‘4 DE fin.oe' ’
+
+÷Acfin.(x÷y)÷BCfin.y -ι- Dan.(ae·÷y>¹÷EFfiu.y· ···“· maximo.
+
+Differentietur utraque aequatio; & omnes quantitates mutabiles x, y,
+κ’, y' ponantur succeffive constanteS, duabus exceptis: hinc eruentur tres rela-
+tiones diversae quantitatum harum mutabilium3 quae cum priori aequatione com-
+binatae totidem suppeditabunt aequationeS, quot sunt quantitates incognitae.
+
+Theorematibus ‚ quibus formulae ‚ ad quas pervenitur, ansam praebent,
+
+evolvendis non immoror. ff ’
+Problemata haec proposui tanquam exempla universalitatis solutionum cal-
+culo differentiali innixarum: eadem vero aptiffima sunt ad ostendendum, quanto
+· «ἂψ, {Q lucidiores esse ppffint solutiones mere elementares iis casibus, in
+quos
+

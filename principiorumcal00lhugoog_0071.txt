@@ -1,0 +1,49 @@
+31
+
+§. 21. ‘ Tbeorema. Sint duae quantitates datae,- limites duarum quantitatum
+mutabilium. Multiplicentur in se invicem tam quantitates datae quam quanti.
+tates mutabiles. Dico: produEtum ex priore multiplicatione ortum, esse limi-
+* tem posterioris producti.
+
+Sint A ὅ( Β duae quantitates datae, ὃ( fint X δε Y duae quantitates muta-
+biles, quarum limites fint A ὅ( Β Dico: produitum AB effe limitem pro·
+dusti XY.
+
+Primus Ccfics. Sint quantitates A ὅ( Β limites quantitatum decrescentium
+X&Y. Sit ideo X = A÷x
+
+„21. = Bw
+ΧΥ ,-·-- ΑΒ-ὶ-Αμ-ὶ-Βκ-Ρκῃ.
+Dico: produRum AB effe limitem produsti (decrescentis) Xy:
+
+Etenim lim. Β : B -4- y = 1 : 1 '(§.‘3.)
+
+Ergo lim· Bx t Bx-l-xy = 1 : 1 (§ ιο.)
+
+Pariterque lim. AB÷2431÷Bx:AB†Ay÷Bx-}-xy =-. 1 : 1 (§. 2.)
+
+Sed per hyp. x & y poffunt fieri fimul minores quacunque quantitate pro-
+pofita; ergo & Ay, Bx pofl'unt fieri simul minores quacunque quantitate pro-
+pofita (§, 6.)‚ δι etiam Ay -Ι- Bx potest fieri minor quacunque quantitate pro- .
+polita (§. 6.). Proinde quantitas AB est limes quantitatis AB÷Ay÷ Bx (§. 6.)‚
+& eadem quantitas AB est limes quantitatis decrescentis AB÷Ay÷Bx÷xy, ·
+seu XT. Scilicet lim. AB ε AB÷Ay÷Bx = 1 : 1
+
+lim. AB÷Ay÷Bx : ΧΥ , = 1 ε 1
+Ergo lim. AB ἐ XY = 1 : 1.
+Er proinde AB est limes produsti (decrescentis) X Y . f
+
+Secundus (ἥψω. Sint quantitates A & Β limites quantitatum crescentium
+X & Y. Sit X = Α- x
+
+Y = B —y .
+ᾗ = AB-Ay -Bx-l-xy.
+lim.B·B-y =1:1(§..3)
+Ergo& lim. Bzx Bx-xy = 1 ἐ 1 (§. 10.)
+
+pariterque, lim. AB-Ay-Bx: AB—Ay-Bx4xy (=XY) = 1 : 1. (§. 2·) ἐθᾶ
+
+ 
+
+ 
+

@@ -1,0 +1,49 @@
+14 ,
+Quoniam (per hyp.) X ε Y <2 A ε Β
+
+XssY: Y <A‡B:B. Sit autem A‘ <A3 & proinde
+
+A—1-—B <Assss
+& A'ssB. B<Asssszss
+
+Dico fieri posse XssYzY > A'ssBsB
+Etenim quoniam ’ A <2 A
+A ε Β <A t B
+Sed (per hyp.) fieri potest X: Y 5> A': B
+Fiat3 ὅ( erit X÷Y2Y1> Assss. Β.
+
+§. 8. Theorema. Duae quantitates mutabiles semper inter se lint in ra-
+tione data. Et quantitas data fit limes unius harum quantitatum mutabilium
+crescentis vel decrescentis: dico, dari etiam quantitatem, quae sit limes-alterius
+quantitatis, crescentis vel decrescentis , & quantitatem hanc eam esse , ad quam
+prior data quantitas habet eandem rationem datam. . ,
+
+Fig.3. Sint AX ‚ C'Y duae quantitates mutabiles datam inter se habentes rationem
+¹⁰⁰ a t c. Sit ABquantitas data, quae fit limes quantitatis mutabilis AX crescen-
+tis v. gr: dico, dari alteram quantitatem σι), quae erit limes alterius quanti-
+tatis mutabilis crescentis CY; & quantitatem hanc CD eam esse, ad quam quan-
+
+titas data AB habet rationem datam a z c. ·
+
+Etenim fiat a : c == AB ε CD
+
+per hyp. AX 1 CY = a :c
+
+Ergo AX ε CY = AB t CD‚· jam vero ΑΒ >AX( (hyp.); ergo
+
+D>
+hinc AB—AX1CD-CY= AB -ε CD ΟΥ
+seu 'XB :-DY=AB:C0=a:c; &DY=BX>‘<{..
+
+. Sed (per hyp.) ΒΧ potest fieri minor qualibet quantitate proposita5 ergo
+(§. 6.) & DY simul minor reddi potest quacunque quantitate propolita‘. Et
+proinde quantitas CD, semper major mutabili CY, limes est magnitudinis hujus
+quantitatis CY.
+
+Eodemque modo propofitum ostenditur de limite decrementi.
+§. 9. Theorema. Duae quantitates mutabiles eandem semper habeant ,ra-
+tionem ad duas quantitates datas A & A. Detur quantitas C, quae limes fit
+ι umus
+
+η
+

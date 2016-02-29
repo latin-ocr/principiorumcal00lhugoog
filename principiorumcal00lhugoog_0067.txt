@@ -1,0 +1,60 @@
+ΞΤ
+
+‚ Fiat (uti 30.) terminus, cujus coefficiens L maj0r. summa omnium ter-
+
+minorum sequentium. Tum per construstionem hujus theorematis fiat primus
+
+terminus major summa omnium terminorum usque ad terminum, cujus coeffi-
+
+ciens L. Erit, a fortiori, primus terminus major summa omnium terminorum
+ᾗ sequentium.e ’
+
+Quod attinet ad casuS, quibus coefficientes non sunt omnes positivi, aut -
+quibus alterne crescunt & decrescunt juxta legem datam, ὃ( quod ad incrementa.
+illorum attinet, modo conditionibus praecedentibus consentaneo: conclusiones
+
+illis casibus a fortiori nefiuntur.
+⁷ Ceteris vero cafibus , quibus coefficientes ultra omnem limitem crescentes ali-¹
+quam legum incrementi praecedentium sequi non constat: hastenu's dubito, theo³
+rema posse seriebus, quarum numerus terminorum, est indeterminatus, applicari.
+
+“ · §. 17. Ut neceffitas' praecedentium distinfflonum luculentius pateat, ex·-
+emplum evolvam, quod in sequentibus 'magni 'erit momenti. ⁸
+
+Exemplum. Sit κη potentia quaecunque ,quantitatis variabilis x, quae , mu-
+
+-tataxin xssAx3 fit
+
+x¹¹ ,4- men-mx 4-3,- . ’ῘΣ-ῙχᾶήΔχΞὲ 2, , , Ξῖἓχει-3Δχ3 4. 2· . ⁸ η· 3
+
+1 2 1 1
+Proinde potentia κη , mutata x in x ᾖ,- Ax‚3accipit mutationeni,
+
+ss(„xn·1Ax ὲ 2²- ‚fflxn-an2 4 Ξ. , ‚ , ’ἕρ-ΒΑΚ» ζὶ-Ῐζ, . . ζ’Ῑ-ἕ. xn-4Ax4 -Ι- ..... )
+
+1 2 1
+Jam vero ponatur, mutationem Ax posse3 fieri minorem quaqcunque quantitate
+
+proposita ε’ dico, mutationem simul fastam 'potentiae κη etiarn quacunque quan-
+
+xn-4Ax⁴ -ξ .....
+
+ 
+
+’ titate proposita fieri posse minorem.
+
+10. Sit n numerus integer positivus, 'Prior series abrumpitur, & proinde
+affertum verum5„est per §. 16. ⁸ “ ’
+
+20. Sit n numerus pofitivus non-integer major unitate. Series praecedens
+non abrumpitur quidem , sed facile demonstratur: coe'fficientes terminorum, in
+quibus exponens mutationis Ax fit major quam n 4- 1 , continue decrescere.
+
+Etenim fit m numerus integer positivus immediate) minor quam n -ff- 1·
+
+n ‘n- 1 n· m· 1
+
+Coefficiens termini x⁰·¹¹¹Ax¹¹¹, erit Ι · -Ξ- . τ. Coefficiens alius
+
+D 2 · cujus-
+

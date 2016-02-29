@@ -1,0 +1,46 @@
+87
+
+scholium. Ex his exemplis patet, saepe potius esse, proprietates curvarum
+ex proprietate quapiam primaria deducere3 operationesque mere algebraicas ⁴
+posse fieri δι longiores ὅ( minus lucida5‚ quam quae magis geometrice insti- '
+tuuntur.
+
+suu-r. Sssx'TUM.
+De Logarithmis.
+
+§- 54·
+In dissertatione jam nominata Expcfiticn elementaire des principes des calcal: supe·
+
+rieurs cap. VI. logarithmorum theoriam δ’( calculum ex contemplatione curvae
+2 logarithmlcae deduxi. Et quidem curva haec omnino mihi apta videtur ad di·
+lucidandum hoc caput, quod tanti est per universam mathefin momenti. Cum
+vero idem spefiari poffit tanquam ad calculum proprie pertinens, methodus
+mere algebraica, δι progreffionum geometricamm natura immediate nixa, po-
+
+tior videri potest, quam methodus mixta (nempe partim geometrica ἀ partim
+algebraica), qua in praedicta dissertatione usus sum.
+
+Methodus autem, quam hic prosecuturus sum, est mere elementaris, ne-
+* que ulla infiniti notione affet'ta. Eandemque eo lubentius evolvam, cum (quod .
+
+sciam) prorsus fit nova, principiis prius politis omnino consentanea, faecunditati
+
+eorum luculenter ostendendae apta, & demonstrationi Psseidererianae theorema
+tis Tayloriani valde analoga. ”
+
+§. 55. Sit az quantitas exponentialis, quae proinde funfflo est exponentis
+mutabilis z Et quoniam imminuta z ( 'polito a numero politivo unitate ma-
+jore) unitas est limes quantitatis decrescentis ιιΖ (§. 22.)
+
+3st az -,..- 14Az 4 Bz² 4 Cz3 4- Dz⁴ 4 Ez⁵ 4 Fz⁶ 4 Gz⁷ †···'·
+Erit ideo α22 = 1-l-2Az-l-22Bz2-l-23Cz³÷2⁴Dz⁴÷2⁵Ez⁵÷2⁶Fz⁶42⁷Gz74...
+aaz = 14.3A'z432Bz2433Cz³43⁴Dz⁴445Ez543⁶Ez⁶43⁷..Gz74.
+
+⁸⁴² = 144Az442Bz2÷4³Cz³44⁴Dz⁴44⁵Ez⁵÷4⁶Fz⁶÷4⁷Gz⁷÷
+
+···· 1 -l-5Az÷5²Bz2÷5³Cz³÷5⁴Dz⁴÷5⁵Ez⁵45⁶ffz⁶÷5⁷Gz74...
+
+ἱ.
+
+‘Hinc
+

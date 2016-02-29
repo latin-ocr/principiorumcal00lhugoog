@@ -1,0 +1,51 @@
+40 .
+
+'differentiali duarum pluriumve quantitatum mutabilium, non unica ei respon·
+‘det ratio integralis5 sed haec ratic, praeter quantitates mutabiles per rationem
+differentialem determinatas, assumere etiam potest terminum constantem, qui
+vulgo per C designatur.
+
+lta fi (Ξ-Ρε xn3 fit P: 04- ..L-„1241
+dx ”41
+dP„ du ,-
+ἆ-ῑ--Η-κῦ P-G÷xy
+ἀΡ-μ--κὲξ x
+E}- κγ 2 Ρῧοψῑ
+
+ 
+
+Quantitas haec constans C, quae, 'rationis differentialis tantum ratione habita,
+est indeterminata, plerumque per naturam quaestionis propositae determinatur.
+dP
+
+· Exemplum. Sit U = (x—20)¹¹; & quaeratur ratio integralis huic rationi
+
+differentiali respondenS, talis, ut ratio illa evanescat, quando ,τι-α.
+
+Ideo P .-.-.¹ C÷ss(x—a)n÷1. Atqui quantitas ss(x-a)u41 evanescit,
+
+posito x =a; ergo C= 0: & R: ss(x—a)¹¹41, quae nunc dicitur ratio inte·
+
+gralis completa.
+Sit vero ‘LI-³ == (ιι-μοι1 ; & quaeratur ratio integralis taHS, ut evanescat
+
+ 
+
+ 
+
+ 
+
+dx
+pofito x = 0.
+P --- C -1- ἐῖᾅτ-Ι-κγῑ-Η. Atqui, poslto x=0, (¹¹† κγ’-Η fit 1⁸⁰4& Ergo
+c= - ssnw. Proinde P = ss((a÷x)n÷1-an÷1)
+ε..- -L &junx-pfl& , ἶῖαπῆκα-Ι-’ἑέ . .. glan-2³⁶³ -Ι-η-’Ξ . . . ’fian-329⁴ -Ι- .....
+1141 1 1 2 1 3 1 4
+—..= anx-f· Ama-Ixstssg‘gawxz 4 ni· ἠΐαῃἹμ -Ι- ·····
+1 . 2 . . . . .
+Exemplum. . Sit ἐξ =‘a‡x=(a÷x)-1; & fit P= 0, quando x = ο.
+Ρὲ Ξ ..M-{4 Ξῖ-Ᾰκ4ψῐὲ-ῗ-ῙΞῘ -1- .......
+a 2 ας 3 4³ ιιι-,Τ 3 a⁵ o ας,
+
+Scholium.
+

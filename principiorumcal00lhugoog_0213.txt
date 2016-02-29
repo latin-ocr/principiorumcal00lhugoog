@@ -1,0 +1,50 @@
+173
+bantur & circumscribantur mttangula, quorum reliqua latera fint axi revolu-·
+tionis parallela. Restangula haec gyratione sua circa axem gignent annulos'
+cylindricoss solido inscriptos & circumscriptos.v Solidum rotatione curvae geni-
+tum majus est summa annulorum cylindricorum restangulis inscriptis genito-
+rum3 minus vero summa annulorum cylindricorum retiangulis circumscriptis
+genitorum: sed idem solidum limes est tam prioris summae crescentis, quam
+posterioris summae decrescentis. ’ ’ ’
+
+Sit SMAB segmentum curvae, quod rotatione circa axem SB bafi AB per- Figw·
+pendicularem gignit aliquod solidum3 δε segmento huic circumscribatur rectan-
+gulum SBAD, quod sua circa eundem axem rotatione gignet cylindrum solido
+circumscriptum. Dividatur AB in partes quotcunque aequales: fit RR' una
+harum partium. Ducantur RM, R'M' ipsi AB perpendiculares, quae curvae in·
+
+M, Μ’ occurrant, ὃς ips1 SD in P, P'; ducantur Mm, M'm' ipfi AB paral-
+lelae ‚ quae restis M 'R'‚ MR in m ὅ( m' respective occurrant.
+
+Annuli cylindrici, gyratione restangulorum RM', R'M‚ ΕΙ) geniti, sunt ⁴in«-
+ter sc respefflve uti ipsa reitangula RM', R'M‚ RP'3 seu uti lineae M'R', MR,
+RP. Solidum rotatione curvae SMA genitum dicatur S, δε cylindrus rotatione .
+
+retianguli ABSD genitus dicatur C, ac mutat-iones simultaneae horum solidorum
+
+dicantur AS, AC 3 erit AS ἓ AC Zss·{·{ {g Sed prima ratio potest fieri ἓξὲξ
+
+major MR τ SB
+
+quacunque ratione propofita, quae fit ratione M'R': ΣΒ. Proinde (§. 1.) ·
+
+mlnor
+
+lim. AS ε AC = ΗΜ t ΞΒ.
+ἦ Atqui Ac :C = (BR÷BR')RR' .- BA2,· proinde
+iimcc: C 23R.RR'· ε BA23 hinc
+
+2BR.,RR'.RM :.SB.BA²
+2⁷r.BR.RR'.RM ι SB.BA².·71
+
+lim.AS ε C
+
+Facto igitur' BR = x, RR' = Ax, ΕΜ = y,
+As
+
+est lim-Kimmxy: Ο :SB.BA2.71.··
+
+=1 21:
+
+Y 3 ““ unde
+

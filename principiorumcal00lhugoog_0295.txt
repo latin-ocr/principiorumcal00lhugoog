@@ -1,0 +1,44 @@
+.- 255
+dent ordinatae aequales pofitivae; ideoque curva duobus constat ramis invicem
+congruentibus ad easdem aitis partes, sed ad diversas verticis partes fitis.
+
+Quoniam y- -· x¹²:
+
+ 
+
+ 
+
+ 
+
+Proinde, quamdiu x non est zero, curva versus axem concava est, propter
+
+d—dZ ε..- -n.1-.n—-¹- & quoniam y=x03 quo major estx, five pofitiva, five ne-
+
+dx² . ,cz—n
+gativa, eo major est y· ideoque fasta σει-ο, y=0 est omnium minima.
+
+Fastis x :2 o, 9- = ο, est dy- 3 proinde communis duorum ramorum tan-
+
+gens in vertice est axi Perpenfficcularis' seu restis axi ordinatim applicatis pa-
+
+rallela.
+
+Duo igitur rami cuspidem ad verticem formant, plus minusve acutam, tum
+pro vario exponente n, tum & pro varia parametro, qua fit y=p1-¹¹x¹k
+
+Figura 49. 1⁰. fistit curvam} cujus aequatio est y = 2:³33 & fig. 49.'20. cur-
+vam, cujus aequatio est y = ³:³3.
+
+Castas ficundus. Sit p numerus impar, q par.
+
+Hoc casu x non potest ess'e negativa. Et quoniam y = x÷; ob q numerum
+
+parem, eidem absciffae duae respondent ordinatae aequaleS, una positiva, altera'
+negativa: unde curva duobus constat ramis invicem congruentibuS, ad diversas
+“ axis parteS, sed ad easdem verticis partes fitis. Casu hoc ordinata zero, aba
+scissae zero respondenS, minor est restis axi ordinatim applicatis in regione or-
+dinatarum pofitivarum fitis3 major autem in calculo algebraico censetur appli- ’
+catis in regione ordinatarum negativarum fitis: itaque ordinata haec neque ma-
+
+ma,
+

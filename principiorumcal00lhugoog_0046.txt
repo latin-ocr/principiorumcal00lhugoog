@@ -1,0 +1,53 @@
+6
+
+decrescentium aut crescentium perimetri‘& superficiei circuli, ad perimetros &
+superficies polygonorum regularium ipsi inscriptorum aut circumscriptorum.
+Idem valet de superficiebus δε capacitatibus cylindrorum, conorum, sphaera-
+-rum, respestu prismatum‚ pyramidum, polyhedrorum, quae ipsis inscribuntur
+ἀ circumscribuntur.
+
+Item: cum area figurae §. 1. Ex. 3. Fig. 1. limes fit summarum cre-
+scentium aut decrescentium parallelogrammorum, quae ipsi inscribuntur aut cir·
+cumscribuntur: ratio aequalitatis est limes rationis decrescentis aut crescentis
+ejusdem figurae ad summas praedistaS. Idemque valet de solidis ibidem comme<
+moratis 3 & de suinmis cylindrorum, qui ipfis inscribuntur δι circumscribuntur.
+
+ᾗ. 4. Theosema. Sint duae quantitates homogeneae limitum capaces ; ad
+quos vel utraque quantitas crescendo, vel utraque quantitas decrescendo, con-
+tinue propius accedit. Sitque ratio harum quantitatum mutabilium semper
+eadem3 seu aequalis rationi datae: dico rationem limitum ipsarum aequalem
+effe eidem rationi datae. ’
+
+fig-3» sint AB, co, limites duarum quantitatum mutabilium AX, σγ. sit ’
+
+ratio AX ε CY semper aequalis rationi datae m ε n: dico rationem limitum
+AB, Οἱ) aequalem effe eidem rationi datae m z η.
+
+10. 10. Sint AB, CD- limites quantitatum mutabilium crescentium AX, CT.
+
+Si ratio AB ε CD non fit aequalis rationi datae m ε n3 erit ea major aut
+
+minor, Tum vero , priore quidem casu, ratio m ε η aequalis erit rationi ali-
+
+cujus quantitatis minoris ipsa AB ad CD3 altero autem casu, ratio m : η aequa-
+
+lis erit rationi AB ad aliquam quantitatem minorem quam CD. Proinde utro-
+
+que casu unus ex limitibus minui deberet, ut ratio limitis ita imminuti ad
+alterum limitem fieret aequalis rationi m ε n. ’ “ ”’
+
+Sit itaque, fi fleri possit: m. n = AB: CD' (< Co). Sumatur CT> Co(
+(quod fieri potest per hyp.)
+
+Tum fiat n : m = CY. AX
+
+Atqui n : m = CD'. · AB
+
+Ergo CY :AX = CD': AB
+
+Sed CY 5> CD' (corfir.)
+
+Ergo AX > AB contra hypothesim cum AB fit limes
+
+quantitatis crescentis AX· 29:
+

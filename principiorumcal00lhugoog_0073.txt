@@ -1,0 +1,35 @@
+’33 ’
+
+coronarium 2. Sit progreffio geometrica crescens: differentia duorum ter-
+minorum contiguorum crescit inde a minimo usque ad maximum.
+corollarium 3. Sint duae progresiiones crescenteS‚ una geometrica, altera
+- arithmetica, quae duos primos terminos habeant communeS‚ ἀ quarum termi-
+norum numerus idem fit: reliqui termini progressionis geometricae majores sunt
+terminis progreffionis arithmeticae aeque ab extremis distantibus. Idem a for·- ·
+tiori valet, fi terminus secundus progreffionis geometricae major fit termino se-
+cundo progreffionis arithmeticae.
+corollarium 4. Sint duae progressiones crescenteS, una geometrica, altera
+arithmetica , quae duos terminos extremos (h. e. primum δι ultimum) com-
+munes habent, ὅ( quorum numerus terminorum idem fit. Reliqui termini
+progreiiionis geometricae minores sunt terminis progreffionis arithmeticae aeque
+ab extremis distantibus
+Theorema. Datis duobus terminis extremis progreflionis geometricae , nu·
+· merus terminorum ita potest augeri, ut! minoris terminorum datorum ἀ ter· ⁶
+mini huic proximi differentia minor fit qualibet quantitate data (hoc termino
+dato minore). ’
+Sint Ρ & Q duo termini dati, quorum P minor3 ἀ fit a quantitas data.
+Sumatur differentia Q- Ρ terminorum Q ὅ( Ρ. Repetatur quantitas data a
+toties ,s ut superet differentiam Q-P3 fit n numerus vicium, quibus repetita fuit.
+Dixidatur differentia Q-12 in n partes aequales, Tum inter terminos datos Χ
+Ρ & Q inserantur n termini continue geometrice proportionales Dico fastum.
+Etenim inter duos terminos P δε Q inserantur totidem termini n continue
+arithmetice proportionales: smt p & p' termini ipfi P proximi in progreffione
+geometrica & arithmetica.
+Erit (per Coroll. 4. piffaec) p < p'; & ideo pm· P<2p ¹-P. Atqui (per
+construftionem) ρ’ - P <2 ας ergo a fortiori p - P <2 a.
+coronarium 1. Terminus itaque datus P limes est quantitatis mutabilis p}
+proinde ratio aequalitatis etiam limes est rationis crescentis P: p (§. 3.)
+· Corollarium 2. Sit q terminuS, qui terminum Q immediate praecedit· Quo·
+niam P: p = q ε Q, ratio aequalitatis etiarn limes est rationis crescentis q z Q.
+E seu
+

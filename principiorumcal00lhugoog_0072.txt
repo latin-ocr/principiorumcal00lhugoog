@@ -1,0 +1,46 @@
+232
+
+Sed ut prius, AB est limes quantitatis (crescentis) AB -Ay —Bx.
+
+Hinc lim. AB ε AB-Ay—Bx = 1 : 1
+lim.AB-·-Ay-B.y: ΧΥ == 1 : 1
+Ergo lim. AB : ΧΤ = 1 ε 1 (§. 14.)
+
+Proinde AB est limes produffi, crescentis XY.
+
+,Tertius Casus. Sit A limes quantitatis decrescentis· Χ.
+Β limes quantitatis crescentis Y.
+
+Sit ideo X = A4x
+*L = B—-y .
+X Y = AB —Ay†Bx-xy.
+Erit lim.B 2 B-y = 1 ε 1
+Ergo lim. Bx. · Bx—-xy = 1 : 1. ι
+Et lim. AB-Ay-fflx: AB-Ay-i-Bx-xy(= ΧΊἿ = 1 t 1.
+„sed ut prius AB est limes quantitatis (five crescentis five decrescentis)
+
+ 
+
+v AB--Ay-t-Bx. Hinc lim. AB ·AB-Ay4Bx=- 1 ε 1
+
+umAB—Ay413x ε ΧΥ == 1 z 1
+Ergo lim. AB ε XY = 1 ε 1
+Et proinde AB est limes produtti (five crescentis five decrescentis) ΧΥ .
+Applicatio. 'Sint A, B, C, D, . . . . . quantitates datae 3 ἀ sint totidem
+quantitates mutabiles Χ, Y, Z, V, . . . . . quarum priores fint limites Di-⁴
+
+co: produstum ABCD . . . . . effe limitem producti XYZV .....
+’ Etenim A ὅ( Β sunt limites quantitatum mutabilium X& Y;
+Ergo AB. est limes produtti mutabilis ΧΥ
+Sed C est limes quantitatis mutabilis Ζ
+Ergo ABC est limes produffl mutabilis ΧΥ Ζ
+Sed D est limes quantitatis mutabilis V ;
+Ergo ABCD est limes produffi mutabilis XYZV; & fic deinceps,
+
+§. 22. Lemma notum. ln omni proportione geometrica continua summa
+terminorum extremorum major est termino medio bis sumto.
+
+corollarium 1. In omni proportione geometrica continua3 excess'us quo ma-
+ximus terminus medium superat, major est excessu quo terminus medius superat
+minimum, ‚ , Corol-
+

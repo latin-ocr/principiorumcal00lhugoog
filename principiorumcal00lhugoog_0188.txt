@@ -1,0 +1,53 @@
+rig. 24.
+
+, 148
+
+CAPUT Daemon.
+
+De quadratura curvarum.
+§. 100.
+
+urva quaevis referatur ad aliquem axem per retias huic ax'i ordinatim ap-
+plicatas, & eidem* vrgr. perpendiculares (a) Superficies curvae denotet aream
+trianguli mixtilinei, quod arcu curvae & abscissa atque ordinatim applicata axis
+
+terminatur3 vel aream quadrilateri mixtilinei‚ arcu curvae, abscifl'a κείς, διεΝ ’
+
+duabus ejusdem ordinatis comprehenfi. Sit restangulum‚ cujus unum latus'
+detur magnitudine, δε cujus latus alterum crescat uti abscissa axis, Dico:
+rationem differentialem superficierum curvae & reflanguli. aequalem esse rationi
+restae axi ordinatim applicatae, quae est basis superficiei curvae‚. ad restam ma-·
+gnitudine datam. , ,
+
+Esto SMM' curva· aliqua, ad axem'SPP' relata per restas, ΜΡ, M 'P'
+huic ordinatim δι perpendiculariter applicatas. Ad punctum S constituatur recta
+ssndefinita axi perpendicularis. Fiant restangnla SARP, SAR ¹1³¹, quorum latus
+commune SA aequale fit rectae 'magnitudine‘ datae, ὅ( altera latera lint abscissae
+axis 63P, SP'. Dico ‚ rationem ‘differentialem superficiei curvae δε ῐεᾶειηςιιΠ
+aequalem effe rationi MP εδΑ. ᾗ ’
+
+Etenim dum abscissa SP crescit quantitate ,ΡΡ’, mutationes fimultaneae
+superficierum curvae δε rectanguli sunt spatia M PP'M ' & RPP.'R'. Complean-
+tur restangula PP'M'm'‚ PP'mM‚ quorum prius* est curvae circumscriptum, po-
+sterius inscriptum (ad normam §. 1. Ex, 3.).
+
+Ratio mutationum fimultanearum superficiei curvae SMP & reflanguli SR
+
+minor est ratione rectangulorum PM', PR', seu ratione PM ' : SA3 major autem ·
+
+ratione refrangulorum Pm, ΡΠ, seu ratione PM τ SA· Quoniam autem ratio
+aequalitatis limes est rationis rectarum M'P‘, MP, seu reaanguiorum PM', Pm3
+ratio reecangulorum PM', PR' minor fieri potest quacunque ratione propofita,
+
+quae
+
+(a) Si coordinatarum angulus non fit reclusa quaecunque de restangulis dicentur, trans-
+
+lt'iffirxindagggglgg parallelogramma aequi-angula, quorum anguli luxit angulo coordina-
+
+ 
+
+ 
+
+ 
+

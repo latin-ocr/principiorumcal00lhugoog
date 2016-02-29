@@ -1,0 +1,42 @@
+176
+
+1⁰. Sit m> 2n· Erit etiam s01.AMPB:> sol.AMQD‚ δι s01.AMPB-s01.AMQD
+= cyl.MPSQ — cyl.ABSD; proinde sol.AMBP : cyl·MfflQ—cyl.ABSD =
+m ε m - 2n.
+
+20. Sit m <1 2²1: erit sol.AMQD:>s01.AMPB ‚ & sol.AMQD—sol.AMPB =
+cyl.ABSD—cylMPsQ3 proinde sol.AMPB:cyl.ABSD-cyl,MPSQ=m:2n—m.
+
+30. Sit σπι-2η. Nihil ulterius inde concludi potest, nifi quod solidaAMPB,
+AMQD s1nt inter se aequalia3 & proinde etiam cylindri MPsq, ABSD sint in· .
+ter se aequales,
+
+§. 115. Curva generatrix solidi referatur ad foc'um aliquem per radios
+vectores ad hunc focum ἀυξὶοε, & per anguIOS, quos radii vectores cum resta
+positione data comprehendunt. Capacitas solidi determinabitur modo se·
+quenti.
+
+pigna Sit SM'M curva ad focum F relata per radios vectores ΕΜ, FM', ὃ( ειη.
+gulos SFM, SFM', quos radii vestores cum resta 'FS positione data compre-
+hendunt. Centro F radio FS (pro unitate sumto) describatur circuluS‚ qui ra-
+diis vestoribus ΡΜ, FM' in punctis X, X' occurrat. Tum centro Fradiis FM, ⁴
+FM' descriptis arcubus Mm, M'm', inscribantur & circumscribantur curvae sefio-
+res circulares MFm, M'Fm'. Solida sectoribus his circa axem SF revolutis ge-
+nita sunt inter se in ratione triplicata radiorum ΕΜ , FM'. Sed ratio aequalitatis
+limes est rationis horum radiorum: proinde & ratio aequalitatis limes est ratio-
+nis1solidorum ab his settoribus genitorum (§. 4.) ; tantoque magis ratio aequa-
+litatis limes est rationis alterutrius horum solidorum ad solidum rotatione sesto-
+ris curvae MFM' genitum. =
+
+Sit Fm=y, FM'=y', FS =r, angulus SFX = x, XFX'‘= Ax. No..
+tum est , solidi rotatione sectoris circularis XFX' geniti expreflionem esse
+{nr³(cos.x‚'·— cosae) τ..- gmmcos.» Sit S solidum sectore curvae SFM genitum 3
+
+est 'lim.s01.MFM' e sol.MFm == 1 ε 1
+sol.MFm :sol.XFX' τ.- 93 : r³
+
+hinc lim.sol.MFM' ε sol.XFX' -.=. 9³ ε γε (§ 14)
+seu limas εξπνΒΔοοίῖκ = ,¹1³ ·: γε
+
+Atqui
+

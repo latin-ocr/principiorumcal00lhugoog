@@ -1,0 +1,37 @@
+226·
+sit autem series neque crescens neque decrescens: erit> *
+δεῑ-Ι-ι-θ-Ι-Ι-ι-Ι-..ηψι
+621: 1÷1÷1÷....÷1÷1
+‚So-1) == 1 Ν ὴ -1 S = -ῙΙ-Ξ-ΞἿ quae iterum est
+'expreffio indeterminata. ⁷ · ’
+·· Cum autem ratio aequalitatis limes fit tam rationis decrescentis x: 1 (po-
+fito x t> 1), quam rationis crescentis x: 1 , ppfito x< 13 pariter summa termi-
+snorum fibi invicem aequa-lium tam limes est parvitatis summae decrescentis toti·
+dem terminorum in progreffione geometrica a primo inde prioribus aequali cre· x
+scendum, quam limes magnitudinis summae crescentis totidem terminorum in
+progreffione geometrica a primo inde prioribus· aequali decrescentium. Unde
+summa terminorum fibi invicem aequalium (quamvis seriem geometricam non
+ἡ, constituant) elici potest ex summa totidem terminorum ab eodem primo ter-
+mino in serie geometrica progredientium3 quaerendo scilicet limitem summae
+hujus progreffioniS, quatenus exponens, progreffionis ad unitatem accedit.
+
+Est nempe
+δ = '‘¹²‘' ¹· Sit x=1÷23 ³2:34: 2 ..⁷2 ,njssz†2‚„fff}z2÷2„.⁹ffiz34, . . .
+x-1 x-1 1 1 21 1 3 1 4
+
+ 
+
+cujus seriei limes parvitatis est n.. Sed hic« limes, est series totidem terminorum
+priori aequalium: ergo summa n terminorum unitati aequalium est η.
+
+Pariter fit S = 1÷2x†3x²÷4x³†5x⁴÷. . ,ψη ,κο-ἱ
+Sx= st2x²÷3x³÷4x⁴÷...÷n·1.xn-1÷nx¹⁸
+s-Sx=1÷x÷x2÷x³÷x⁴÷...÷ xu-l-nxfl ·
+⁷ Sx-Sx²= x÷ κ’ -l- x³ -ἱ- x⁴÷...·l· ,κη-14- xfl-nxn41
+S· 2Sfflx2 = 1 “ †(n÷1)x⁰4-nxu÷1=n(xn÷1.xn)-(xn- 1),
+Fasto x= 1 , erit S((1 -1)-(1 - ι) =. (n·n)*·(1-1)); ex qua expreffione nihil
+
+deducere licet.
+
+Fiat autem x == 142, ὃς quaeratur limes expreffionis ”Qg
+

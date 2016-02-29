@@ -1,0 +1,38 @@
+¹03
+
+§. 69. Formulae differentiales iogarithmicae poffunt etiam quantitatum in
+series converfionem reddere faciliorem.
+
+Exempla. Ponamus legem, quam coefficientes potestatum binomii sequun-
+tur, nobis effe adhuc ignotam3 & fit
+(14x)¹¹¹ = 1 -Ι- Aac-1. Bx2 ÷Cx³ ÷Dx⁴ ÷Ex⁵ 4Fx⁶ -l-Gx74.
+Sumendis logarithmis erit ν
+mlog. 1 ÷x -τ log.(1 ÷Ax÷Bx² ÷Cx3 ÷Dx⁴ 4- Εχε ÷Fx⁶ 4.ze 4
+Sumendis exponentibus differentialibus erit
+
+Α, m ss= A÷2Bx÷3Cae244Doe345Ex446Fx⁷47Gae⁶4.
+
+14oe 14Ax4Bae2-4-Cae3 ÷Dae⁴ 4Ex⁵ ÷Fae⁶ 4G27 4
+
+et m(14Aae4Bx² -1- Cat-'34 Dae⁴÷ Eae⁵4 Fae64 δεῖ 4 ·.··) ·
+νεα-μυ) ( Α 42Boe430ae2 ÷4Dae³45Eae⁴÷6Fx⁵÷7Gae⁶ 4 0.)
+Unde aequando coefficientes potestatum fimilium juxta methodum reverfionis
+serierum fit
+
+ 
+
+A = nu unde A εἴ
+2Β·1-Α = mA B ετ·- ’.ξ-’..ῩΞΞ
+3C42B --— mB C -..= ’ἕηὶξὲ
+4D÷3C = mc D ·- ’ξωῗὲξ-
+5E÷4D ·--· mD == 913...]ξᾶ
+⁶F÷5E ...-...Ε F== ξ’...ωἰζ-ὅ.
+7G÷⁶F = ...ιν G 2-”3' ..... Ἆῖἐ
+
+(conformiter §. g. Introd.)
+
+20. Eodem modo *fit (vi-Ax †Bx² ÷Cx³ ÷Dx⁴ ÷Ex⁵ ψ. ,ἡ . .)¹¹²
+-= 14A'x4B'x2-ff-C'x34-D'x4 ÷E¹x⁵÷. . ,. .
+
+Erit
+

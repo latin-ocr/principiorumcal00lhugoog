@@ -1,0 +1,40 @@
+70
+
+Sit AMZ arcus curvae (totus versus chordam suamv concavus). Dioo: ex Fig.14.
+uno arcus illius extremo A duci posse chordam AM talem, ut ratio arcus
+ALM ad chordam AM (quae semper major est ratione aequalitatis) minor fit
+quacunque ratione proposita majoris ad minorem; item, ut dustis ex A& M
+tangentibuS, quae fibi mutuo occurrant in N, ratio arcus AM ad summam
+AN 4- N M duarum tangentium (quae semper minor est ratione aequalitatis)
+major fit quacunque ratione proposita minoris ad majorem.
+
+Sit ratio proposita majoris ad minorem ea, quam summa crurum alicujus
+trianguli aequicruri GE -ι- ED habet ad basim CD; seu ratio minoris ad majo-
+rem ea, quam habet CD ad ίἙ-Ι-ΕΒ. Ad punstum A ducatur tangens BA, δε
+chorda ΑΖ, quae faciat cum tangente BA angulum, BAZ ipso CED majorem.
+Tum (§. 43.) dueatur arcui AMZ tangens chordae AZ paranda, quae ipsi BA
+occurret. Sit ea MN. Dico fanum. f
+Etenim super CD, tanquam bafi, constituatur triangulum (Ἑόι ipsi ANM
+simne, .
+
+In triangulo CE'D angulus sscE'D<= N = BAZ) 2> CED. Ergo punstum Ει
+situm est intra segmentum circuli, cujus basis CD, ὃς quod capax⁴ est anguli
+(ἙΠ. Proinde C'E'÷ E'D< CE-J-ED (quod facile demonstratur).
+
+Est ideo -CE' 4- E'D τ CD <GE 4 ΕΒ : CD
+-sed- · CE'4E'D:CD=AN<÷NM1: AM
+ergo AN -3- ΝΜ :AM < CE 4-ED : CD.
+Atqui 1⁰. arcus ALM minor est summa AN 4- NM ς ergo (a fortiori)
+. ALM : AM <GE-pm] ε CD ’
+2⁰. arcus ALM major est chorda AM 3 ergo (a fortiori)
+AN÷NM2 Alma< CE÷ED : Co.
+
+Proinde ('§. 1.) ratio aequalitatis limes est rationis decrescentis cujusvis
+arcus ad suam chordam3 δι limes rationis crescentis ejusdem arcus ad summam
+tangentium, quae ab extremis arcus ducuntur, & occursu suo mutuo termi-
+
+uantur.
+
+§. 48. coronarium 1. Nominatim ratio aequalitatis limes est rationis de-
+cre·
+

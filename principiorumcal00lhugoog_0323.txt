@@ -1,0 +1,48 @@
+283
+Relatio haec non effugit superioris seculi mathematicos, quorum molimina ,
+‚ utrumque problema de duftu tangentium δι de maximis ac minimis solvendi
+
+ad generales calculi differentialis regulas viam straverunt3 quos inter anm-
+num, Ronnnvamum, Pascntmm, Bannowmm nominare sufficiat.
+
+§. 189. Quamvis quaestiones ad ωξέἰίηᾞέ pertinentes inde ab eo tantum
+
+tempore censeri debeant perfecte solutae, quo generales calculi differentialis
+regulae iis applicatae fuerunt: abunde tamen, quae supersunt, monumenta do-
+
+cent, veteres geometras hujus generis quaestionibus operam haud inanem im-
+
+mamma .
+minima pertinen-
+
+tes sistunt, ex. gr. in 5ῑ*ι & 9¹¹² Libri secundi. Luculentiffime autem hoc com- ⁶
+probant libri antiquorum ad analyssn geometricam. pertinentes, a Pax-po re-
+censi, & partim superstiteS, partim a recentioribus mathematicis restituti3 prae-
+sertim Trastatus de Seffione rationis ΕΤ spatii, de Seffione determinata, & de Inclinatio-
+nibus, atque inprimis Liber V. Sestionum canicorum Apouomr. ³
+
+Quando problema aliquod geometrice solvitur3 defestus occursus mutui li·-
+nearum in construetione ducendarum monet de propositae quaestionis impoffibi-
+litate: algebra autem impoffibilitatem hanc indicat per introduftionem quanti-
+tatum (quas vocant) imaginariamm', sese invicem non destruentium. Sed im-
+perfesta solutionis aequationum conditio obstat, quominus algebra hoc respeftu
+sufficiat.. Cum vero aequationum secundi tantum gradus solutio plana fit3 fun-
+
+&ionum ejusdem ordinis ffiffiffilng facillime per algebram elementarem determi-
+
+nantur, quod paucis exemplis declarabo.
+
+pendisse. Ipsa Elementa Eucmms propositiones nonnullas ad
+
+Primum exemplum· Sit 2ax-xx = ,εφη-ιε) funstio secundi o‘rdiniS, cujus
+maximum quaeritur. Sit 2ax--xx = p: erit x-cz = ᾗ V'(aa ην). Ut proble-
+ma fit possibile3 requiritur, non sit p major quam aa: proinde maximus ipsius
+p valor est aa; ὅ( tunc x-a = o,' x= a, εει-κε α; seu duo termini produsti
+x(2a -x) sunt invicem aequales·
+
+Exemplum ficundum. Sit numerus datus a dividendus in duas parteS, fic ut
+summa produstorum quadratorum ipsarum per numeros datos m, n fit omnium
+minima. Sint duae partes x, a-x; δι ponatur mxx÷n(a-x)²= p: ’
+
+Nn 2 erit
+

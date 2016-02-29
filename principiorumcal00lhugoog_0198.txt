@@ -1,0 +1,41 @@
+ι58
+
+Proinde limitis summae reaangulorum circumscriptorum, hoc est, areae
+
+figmenti curvae expreffio limes est summae omniu-ni horum terminorum3 nempe
+ss- x² dy dedy — x⁴ d3y x⁵ d⁴y — x⁶ d⁵y 4
+’Ψ ffiffi†1†2.3d-x-ff ffiff⁴·}7:3‹1-F ῖῑόςιῑῖ ····
+Eademque methodo proceditur per restangula curvae inscripta.
+scholium. Methodus‚ qua parallelogrammorum curvae alicui circumscripto-
+rum summa determinata fuit, exempli loco esse potest methodi, qua serierum
+plurimarum summa , juvante theoremate Tayloriano , ad potestatum numero·
+
+rum naturalium summas potest reduci.
+
+§. 104. Si curva referatur ad aliquem focum, ut coordinatae smt radii
+vectores , & anguli, quos hi radii cum aliquo radio vettore politione dato com-
+prehendunt: quadratura curvae fic determinatae iisdem nititur principiis,
+
+‚ 3346, Sit SMM' curva ad focum F relata per radios vestores ΓΜ, FM', & an-
+gulos SFM‚ SFM¹‚ quos radii vestores ΕΜ , FM⁸ cum radio FS positione dato
+comprehendunt.
+
+Centro F, radiis FM, FM', describantur arcus Mm‚' Μήι·9 οιη curvae inscri-
+bantur atque circumscribantur sestores circulares MFm, M'Fm'. Settor curvae
+MFM' major est sestore circulari. inscripto MFm3 minor autem circumscripto
+M'Fm'. Cum autem ratio aequalitatis limes fit rationis radiorum ΕΜ, FM'3 -
+ratio aequalitatis limes etiam est rationis festorum circularium M 'Fm' ‚ MFm3
+& a fortiori limes rationis seeoris curvae MFM', δε sectoris circularis MFm.
+Radius magnitudine datus FS s1t r, δε centro F radio FS describatur arcus cir-
+cularis, qui radiis FM δε FM' in punitis X& ΧΙ occurrat. · Sit etiam’w· cir-
+cumferentia circuli, cujus radius est unitas3 fit angulus SFM = “x3 angulus
+MFM ’Ξ Ax, ἀ Γεᾶοτειῃ curvae SFM denotet S 3 uncle MFM' τ.. AS·
+
+limMFM ¹ ε MFm = 1 t 1
+MFm :IG'X = MF2 2 FS2
+
+ergo limMFM' ε XFX' = yy : η
+seu limgMFM': -ξ-ννΞ-σ. ==
+
+lim.
+

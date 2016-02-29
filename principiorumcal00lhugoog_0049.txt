@@ -1,0 +1,51 @@
+9
+ellipsis circa eundem axem genitarum.- Nempe solida haec respestive limi-
+tes sunt summarum cylindrorum , qui ipfis inscribuntur δε, circumscribuntur.
+Atqui summae istae sunt inter se in ratione constanti, quae est duplicata ratio·
+nis hujus axis ad axem ipfi conjugatum: ergo etiam sphaera δι eliipsois sunt 111-
+ter se in eadem ratione duplicata. ‘
+¹ Utilitas praesentis propositionis plurimis aliis applicationibus 'illustrari pos-
+set. Sed haec abunde sufficiant. ,
+
+§. 5. Theorema. Duae quantitates mutabiles heterogeneae‚ ssve crescen⁴
+tes ambae,s1ve ambae decrescenteS, fint limitum capaces, et rationes harum
+quantitatum ad duas quantitates datas 11111 semper inter se· aequaleS. Dico:
+rationes limitum harum quantitatum mutabilium , ad easdem quantitates datas,
+effe etiam inter se aequales· , ’
+
+Sint Q δι Q' duae quantitates mutabiles. Sint L & L' limites harum “
+quantitatum fimul crescentium, aut 11111111 decrescentium. Sint C δι 0 duae
+
+quantitates constantes Sit semper Q. C= Q: 0
+Dicoess'e L. C=L: 0.
+
+Primus Custos. Uterque limes L & L' 111 limes quantitatum Q ,δε Q' cre
+
+Tcentium. , .
+Si non est L: C== L'· . C'3 alterutra: rationum L: C, L . 0, major erit
+
+Ν altera3 & proinde minuendus 01113111000110115 majoris rationiS‚ ut alteri fiat
+- aequ'alis. S1t1g1tur fi fieri poffit: L—q: C= L': C.
+
+Fiat Q > L —q (quod fieri potest per hyp.)
+
+Erit Q : C t> L—q: C
+
+sed Q ε. C = Q' 10 (hyp.)
+
+Et L—q: C= L :.C''..
+
+Ergo 'Q‘ : C':> L' :C'
+
+ideo Q' > L‘ (contra hyp.)
+
+Secundus quus. Uterque limes L & L' fit limes quantitatum Q & Q' de⁴
+
+crescentium.
+
+Si non est L. C= L. 01. alterutra rationum L: C, L: 0¹3 minor erit
+aitera3 ὃς proinde augendus erit antecedens minoris 131101115, 111 alteri fiat
+aequalis. Sit ideo, fi fieri poffit: L ÷ 9.· C= L': 0. ,
+
+Β ⁷ F iat
+
