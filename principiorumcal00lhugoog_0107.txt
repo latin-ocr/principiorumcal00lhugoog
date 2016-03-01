@@ -1,0 +1,41 @@
+67
+Scilicet curva AMM' referatur ad diametrum ΑΡ per restas ipsi ordinatim Fig.11.
+applicatas MP, M ¹1²¹. μ Per punctum M arcus MM'‚ qui ex utraque puncti M
+parte ad diametrum sit concavus aut convexuS, ducatur resta M T, quae curvae
+in punsto M ita occurrat, ut ad ,utramque puncti M partem extra curvam ca-
+dat: haec resta M T dicitur tangens curvae, & punitum M dicitur punctum
+contastuS. Sit MP diametro ordinatim applicata, δι tangens occurrat diametro
+‚in T: linea PT dicitur subtangens.
+
+Quaecunque dicentur de arcubus versus diametrum concavis, facile (mu-
+tatis mutandis) ad arcus versus diametrum convexos applicantur: quare (bre-
+
+vitatis causa) de prioribus tantum dicere sufficiat.
+
+Observatio- Ex puncto M ad aliud quodpiam punstum M' arcus AMM' du·
+catur chorda MM'‚ quae producta diametro occurrat’ in S. Per punstum Μ’ du-
+cantur resta M 'P' diametro ordinatim applicata3 & resta M'Q diametro paral·
+lelex, quae ipsi MP· occurrat in Q. Linea PS dicitur fiabstcans.
+
+Fit semper ΜΡ 2 PS = MQ: M'Q3 hoc est: ratio mutationum fimultanea-
+rum ordinatae & abscissae diametri aequatur rationi ordinatae ad subsecantem.
+Prior itaque ratio major est aut minor ratione ordinatae ad subtangentem2 pro·
+uti ‘subsecans minor est aut major* subtangente: nempe in casu figurae , ubi ar-
+cus MM' concavus est versus diametrum, prouti punitum Μ’ situm est inter
+
+puncta M & S, aut secus. Quoniam vero puntto M ' propius propiusque ad pun..
+stum M ¹accedente (ita ut mutationes fimulsstaneae ordinatae ὅ( abscissae diametri·
+
+continue fiant minores), punctum S continue accedit ad punftum T‚· ita ut sub-
+secans' continue minus differat a subtangente: proclive est suspicari, rationem
+ordinatae ad subtangentem poffe ex ratione differentiali (si qua fuerit) ordinatae
+ad subsecantem deduci3 quod theoremate sequente stabilitur. .
+
+§Z 39. Theorema. Ex punsto aliquo cujuslibet arcuS‚ qui totus fit versus .
+diametrum, ad quam refertur, concavus (aut convexus), ducatur resta, quae
+=arcum tangat δι diametro occurrat. Dico: rationem mutationum fimultanea-
+rum¹ restae diametro ab eodempuneco ordinatim applicatae δε absciss'ae diametri
+fieri poffe minorem quacunque ratione data ,‘' quae major fit ratione data ordi-
+
+’ Ι 2 “ ·natae
+

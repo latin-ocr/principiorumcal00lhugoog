@@ -1,0 +1,46 @@
+78
+Qb calculi autem integralis imperfeffionem plerumque huic problemati < quod
+methodus tangentium inverstz vocatur) aequatione terminis finitis expressa satisfieri
+nequit. Imo sunt casus nonnulli etiam simpliciffimi, qui methodis huc usque
+expolitis trastari non posse videntur, & de quibus inferius dicemus, Exempli
+
+xm xm
+
+causa sit t ε .--: erit = y—
+affi-1 ⁸ amq dy'
+
+ 
+
+·de qua formula, & aliis ipsi analogis,
+
+infra agemus· Ι
+
+§. 46. Quaecunque fit origo curvae alicujus algebraicae‚ ea semper potest
+ad aequationem reduci inter restas coordinatas respeau alicujus diametri. Ex.
+gr. constantia summae distantiarum cujusvis punsti ellipseos ab ejus focis pro
+fundamentali ipsius proprietate assumta , ex illa deducitur relatio coordinatarum
+alterutrius axium imo ὃς respestu duarum* quarumlibet diametrorum conju-
+gatarum: quod scilicet quadrata testarum diametro cuicunque ordinatim appli-
+catarum proportionalia sint restangulis sub absciffis ejusdem diametri. -Idem
+valet de hyperbola3 pariterque de omnibus sestionibus conicis‚ proprietatis funf ,
+damentalis loco sumta ratione data distantiarum cujusvis punffl ab alterutro
+foco ὅ( a diret‘trice. Proinde, quae jam praecepta fuerunt de dustu tangen-
+tium, quatenus curvae ad aliquam diametrum referuntur per restas huic ordi-
+·natim applicataS‚ sufficere poffunt (pro curvis saltem algebraicis). Quoniam
+autem frequenter evenit , ut curvarum affeffio'neS, ὅ( nominatim proprietates
+earum ad conta'aus pertinentes, modo lucidiori & simpliciori ex alia quadam γ
+ipsarum origine aut proprietate deduci poffint, quam fi aequatio inter coordina-
+tas restilineas instituatur3 e re esse censeo, praecipuas curvarum origines per·-
+pendere, δε methodos tangentes ducendi iis applicare, non adhibita aequatio-
+ne, qua curvae ad diametrum aliquam per restas huic ordinatim applicatas re-
+seruntur. Sed ut hunc scopum modo sufficiente adimplere valeam. nonnulla
+praemittenda sunt lemmata, quae & 111 sequentibus capitibus suas habebunt ap-
+plicationeS.
+
+§. 47'. Theorema. Ratio aequalitatis linies est tam rationis decrescentis ar·-
+cus (qui totus versus chordam concavus supponitur) ad chordam; quam rationis
+crescentis arcus ad summam tangentium per extrema ejus duaarum, δε concursu
+
+suo mutuo terminatarum. St
+1
+

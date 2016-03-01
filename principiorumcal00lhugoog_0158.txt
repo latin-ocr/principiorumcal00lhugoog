@@ -1,0 +1,62 @@
+118
+
+· clariss, Eatenus artificium tradit, quo paeditta series fit usui quam ma·
+xime accommodata 3 ὅ( quod e re vesse censeo hic breviter exponere. ’ —
+
+Lemma. Esto arcuS‚ cujus tangens fit pars quaepiam aliquota radii. Ar-
+
+cus hic dividi potest in duos alios arcus, quorum tangentes pariter erunt radii
+partes aliquotae, eaeque minores·
+
+Sit ξ, tangens aliquus arcuS, existente T numero· integro positivo, Ar·
+
+cus hic dividi potest in duos alioS, quorum tangentes ξ, -ῙΊ- 'etiam erunt par-
+
+t
+tes aliquotae radii, eaeque minores,
+
+,L
+
+Etenim quoniam T
+
+est tangens arcus , qui est summa arcuum , quorum
+
+ι
+
+ 
+
+1 1
+
+'tangentes sunt -ξ- & {ff erit ἦ, = 1 ...Ξ-Γπ unde (facili calculo) deducitur
+tt
+
+(t-ssDQ'- T) = TT-1- 13 hinc t—T= Q. Ut t fit numerus integer,
+
+fiat denominator 2⁸-— T aequalis divisoribus tiumgratoris. TT÷ 13 erit'fastum.
+
+Exempla. Sit T= 1 ‚ seu arcus propofitus fit dimidius quadrans. TT÷1 =2;
+
+2⁸— T= 1‚2, t'= 2,3
+
+4 ... T: 2, ι, 2: 2‚2· Dimidius igitur quadrans dividitur i'n duos arcuS, quo.
+rum tangentes sunt ἑ '& ᾗ radii. Summa horum arcuum, serie praecedenti
+
+promtius convergente computatorum‚ erit dimidius quadrans·
+
+s: ΞΣ ἒζξὶ 5:31} Q'uadrans ideo dimi-
+
+diae circumferentiae dividitur in tres arcuS, quorum duorum mutuo aequalium
+tangens est {‚'& tertii tangens est ²¹!- ’ ’
+
+Sit nunc T= 23 TT÷1 =53
+
+Sit tandem T= 33 TT÷ 1 = 103 εἰ {2:12⁹ ζ’, ξ;1ἳ; 5¹:133: {2¹}
+Proinde quadrans dimidiae circumferentiae dividitur v: gr. in quinque arem, ut
+sequitur: -12-p = 2arc. tang.}÷1 arc. tang.{--{-2arc. tang. {a ξ f
+Sufficiat, hujus methodi principium breviter exposuisse. Qui plura volue-
+rit, adeat Commentarios Acad. imp. Petrop. adanu. 1737. & BERTRAND Developement
+
+de la partie elementaine des Mathematiques.
+
+ς. 81.
+

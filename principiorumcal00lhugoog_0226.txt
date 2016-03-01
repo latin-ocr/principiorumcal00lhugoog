@@ -1,0 +1,49 @@
+1¹ ig. 32.
+
+rig. 33.
+
+186
+restam demittatur perpendiculum, restangulum‚ sub hoc perpendiculo ὅ( sub
+
+summa restarum magnitudine datarum contentum, aequale fit summae priorum Ν
+
+restangulorum.
+
+Exemplum primum. Sint duo puntia A, B, a quibus in restam quamcun-
+que A'B' demittantur perpendicula AA', BB'. Sint etiam duae restae a, b ma.
+gnitudine datae. Resta AB in punsto Z ita secetur, ut fit AZxa = Bbe,· ὃς
+a puntio Ζ in restam A'B' demittatur perpendiculum ZY. Dico: fore
+AA'x a÷BB'><1› Ξ ΖΥρι-ι-ῡ).
+
+Constr. Per Z agatur resta ab' ipfi A'B' parallela, quae reftis AA', BB' in
+a ὅ( b occurrat.
+
+Dem. Propter similia triangula AZa, BZb est Aa. Bb: -ΑΖ, 32: b. a;
+hinc a(ZY—-AA') -· b(BB'-- ZY),· proinde ZY(a—{-b) == a><AA'-†-b Χ BB'.
+
+Exemplum ficundum Sint tria punita A, B, C positione data, ὅ( tres restae
+a, b, c magnitudine datae3 & smt AA', BB', CC' perpendicula in restam quam-
+cunque demissa.
+
+Punfto Z respestu punt'torum A, Β ita determinatO, ut fit ZY(a÷b)- -—·
+AA'xa÷BB><b; determinetur puntium ΖΙ τείρεὲὶυ. punstorum Z, C, ita ut
+aska-fan) = ZY(a÷b)÷ cc'x c: erit Z'Y'(a÷l›†c)=AA'>< a÷BB'>< mcc& c.
+
+Exemplum tertium. Sint quatuor puncta A, B, C, D politione data, δι φιλ.
+tuor lineae a, b, c, d magnitudine datae.
+
+⁵ Determinetur punstumZ‘ respestu punstorum A, B, C (juxta exemplum
+secundum); tum determinetur punstum 2¹¹ respefiu pannorum Z', D, fic, ut
+2“Y”(a÷b÷c†.1) = 2'Y¹(a†12÷c)÷DD'><d: erit Z”f(a÷b†c÷d) =
+AA'xa†BB'xb÷CC'><c-4-DD'xd. . ·
+
+’ Ex his exemplis patet methodus generalis procedendi ac demonstrandi.
+Propofitione nimirum evista pro punstis quotlibet n positione datis, ὅ( pro toti· ·
+dem retiis magnitudine datis; eadem etiam vera effe demonstratur, fi tam pun-
+storum quam restarum numerus unitate augeatur. Cum igitur vera fit propo« .
+fitio de paucis punstis & resti3,2, 3, 4 . . . .; ea etiam vera est pro quinque
+punffls: inde 'pro sex, ὅ( fic deinceps. Ideo semper determinari potest punstum
+
+Ζ tale, ut fit a>< AA'4-beB'4-0c ><CC¹÷....1><LL'; ZZ‘(oe÷-b†÷'c÷·····s÷b13k
+c um·
+

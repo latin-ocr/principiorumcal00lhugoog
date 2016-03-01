@@ -1,0 +1,47 @@
+22
+
+Est semper (hyp.) X ε Y < ΑΒ t BC
+
+γ Fiat (quod possibile per hyp.) Y t Z < BC cd
+Et est. semper (hyp.) Z : V <2 Cd ε Da ⁸
+
+” Erg0= X2V<2AB-:De.
+
+Proinde ratio X :V fieri potest ἓξὲξ qua'cunque ratione proposita ἓξὲξ,
+quam ratio AB t DE. Proinde (§. 13.) ratio AB ε DE est limes rationis Χ : V.
+
+Methodum demonstrandi reliquOS, qui heic obtinere poffunt casus, abunde
+hoc exemplo liquere existimo.
+
+Olfiervatio. Casus ‚ ubi una aut plures rationes constantes- occurru‘nt comp0⁴ ,
+nendae cum rationibus mutabilibus (limitum capacibus), ita facilis & evidens
+est ex praecedentibus. ut uno exemplo eum sufficiat iJlustrare.
+
+Sit ratio A z Β, limes rationis mutabilis decrescentis Χ : Y.
+
+Sit ratio B ε C, aequalis semper rationi Y : Ζ.
+
+Dico, rationem A ε C eise limitem rationis decrescentis, X ε Ζ.
+Etenim quoniam X: Y > Α : B
+et Y e Z = B ε C'
+Erit semper X: Z z> A ς c
+
+Sit ratio data A· z C' major ratione data A: C(A' t> A).
+Fiat (qndd poflibile per hyp.) X : Y < A‘ ε Β
+Estsemper 'Y:Z=B:C
+Ergo Xzz<1A':C.·
+
+Proinde ratio A: C composita ex rationibus ἔ g limes est rationis decrescen-
+tis X : Z. η
+
+Corollarium 1. Nominatim , fit aliqua ratio data limes rationis mutabilis-‚-
+· crescentis vel decrescentis3 ratio duplicata,›triplicata, quadruplicata, ⁸- - .· - -ι
+prioris pariter erit limes rationis crescentis aut decrescentis, quae est duplicata,
+triplicata, quadruplicata ----- rationis mutabilis. ‘
+
+Hinc speciatim, fi ratio¹ quaepiam data limes est rationis mutabilis cre-
+scentis vel decrescentis dimensionum homologarum duarum figurarum similium,
+superficialium vel solidarum: prior ratio duplicata limes est rationis superficie-j
+rum figurarum3 eademque ratio triplicata est limes rationis capacitatum figura-
+tum solidarum. . Corol-
+

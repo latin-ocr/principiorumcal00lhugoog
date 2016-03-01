@@ -1,0 +1,47 @@
+’ [ῖς. 27.
+
+162
+
+Etenim curvae inscribantur δι circumscribantur parallelogranuna (ad nor· · ’
+
+mam §. 1. Ex. 3.). parallelogramma haec bina sumpta ad utramque diametri
+partem sunt mutuo aequalia3 proinde δε summae horum parallelogrammorum
+ad utramque diametri partem sunt invicem aequales: unde δι limites harum
+summarum, nempe duae partes spatii curvilinei ad utramque diametri partem
+fitae, aequales sunt.
+Theoremoe. Super asymptoto hyperbolae conicae sumantur a centro C restae
+CA, CA', CB, CB' in proportione geometrica. Per punEta A, A', B, B' agan-
+tur restae alteri asymptoto parallelae, quae hyperbolae in punffls D, D', E, 'E'
+occurrant. Ex centro C agantur restae CD, Co'‚ CE, CE'; dico, sestores
+DCD', ECE', & trapezia ADD'A', BEE'B', effe invicem aequalia.
+jungantur tettae ED', E'D, quae asymptotis in G, H, G‘, H' respestive
+occurrant. Notum est, fore GE = D'H, GffE'z DH'.
+Propter parallelas ΕΒ, CH est ΘΒ : GE ε.- A'c: D'H
+atqui GE = D'H
+ergo GB . -·-·-. A'C3 & pariter B'G'=Ac’.
+Atqui (hyp.) CA: ·CA⁸=CB·CB'=E'B':EB (quoniam CBxBE=CB'><B'E');
+ergo G'B': GB -E B :EB; proinde triangula G''',BE GBE
+
+‘ sunt invicem fimilia, ὅ( restae G ''‚E GE sunt invicem parallelae. Ducatur CF,
+
+quae retiam GH bifariam in F secet. Quoniam GF: G F' =CF: CF'= FH: F 'H',·
+erit etiam G'F ·.-=FH·. Atqui GEss-DQH & G''=E DH'; ergo EF= FD', δι
+E'F'= F'D. Proinde resta CF est diameter hyperbolae, & spat'1a SEF, SE'F'
+
+'respective aequalia sunt spatiis SD F, SDF'. Sed triangula CEF, CE'F' respe-
+
+stive aequalia sunt triangulis CD' F, CDF'; ergo ὅ( spatia CEs, CE' S respefflve
+
+aequalia sunt spat-iis CD'S, GBS, proinde δι sestores ECE', DCD' sunt invicem,
+
+aequales.
+
+² Rettae AD, CD' fibi invicem occurrant in I. Quoniam CA><AD=CA'><A‘D'
+semper est triangulum CAD aequale triangulo CA'D': hinc, sublato utrinque
+spatio commum CAI, ὅ( adjesto utrinque spatio communi DID', fit sector DCD'
+aequans trapezio mixtilineo ΑΒΖ) “’;Δ eodemque modo sector ECE' aequalis est
+
+’ trapezia BEENJB
+
+Coro}-
+

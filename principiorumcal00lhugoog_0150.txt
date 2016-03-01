@@ -1,0 +1,46 @@
+110
+
+Quoniam autem (§. 72.) primus terminus omnium priorum membrorum
+non continet primam 'potestatem z arcus mutabilis z, prima haec potestas deerit
+etiam in posterioribus membris; unde erit A- - 0.
+
+Eodem autem modo, quo prius pro finu fastum fuit, demonstratur omnes
+potestates impares quantitatis mutabilis z evanescere. Scilicet differentiae or-
+dinis· imparis 2m4- 1 membrorum priorum sunt νηὶ-Η fin.3¹n÷¹{zfin.pz; & pro-
+inde primi termini horum membrorum evol-ntorum continent potestatem parem
+z2m÷² arcus mutabilis z: membra ergo priora harum aequationum non conti·-
+nent potestatem imparem z2m÷1 arcus κς unde δι membris posterioribus pote-
+states hae impares debent exulare. Sed primi termini horum membrorum sunt
+’ ΔπΜ-ΗηΜ-ΗΜζαω-Η, seu 1. 2 . . . 2m -1- 1 Mz²¹¹²÷13 proinde 0 == 1. 2 . . . 2m÷ 1 M,
+& M = o. ‘cosmus itaque per arcum exprimitur serie hujus formae, quae pares
+tantum potestntes ipfius z continet.
+
+‘cos-z= 1 —Az2 ÷Bz⁴÷Cz⁶ 4 13334Εῇ0 ψ.. ..
+
+Sumtis differentiis secundis erit: x
+22fin.²-2¹-zcofi2z = Δ”(3’...12)Ατι2 -· A‘'(3⁴...1⁴)Bz⁴ — A'(3⁶...1⁶)Cz⁶—
+2²fin.²{·zcos.3z == A”(42.·..2²)Az2 - A“(4⁴...2⁴)Bz⁴ — A''(4⁶...2⁶)Cz⁶-
+2²s1n.2‡zeos.4z = A''(5²...32)Az2 ·- A''(5⁴...3⁴)Bz4 - A‘'(5⁶...3⁶)Cz⁶—
+
+· ο n< ο -ι - - -
+
+Et quoniam primus terminus omnium priorum membrorum evolutorum
+est 1z²‚ erit etiam primus terminus omnium posteriorum membrorum 12²·
+
+SedA”n2=.-1.2(§.q..1ntr0d); ergo 1. 2A.=1, διΑν--ῖ-Ξ.
+
+Tum sumtis differentiis tertiis & deinceps quarti8‚ erit
+
+2⁴fin.⁴12-zcos.3z == A¹⁹(5⁴...”1⁴)Bz.⁴ 4 A¹⁹(5⁶...1⁶)Cz⁶ -ξ- A¹v(58...1⁸)Dz⁸ -Ι-. . ,
+2⁴s1n.⁴{zcos.4z -—·- ,A¹'(6²...2⁴)3z⁴ ÷ A¹⁹(6⁶...2⁶)Cz⁶ -Ι- A¹⁹(6⁸...2·⁸)Dz84. . .
+2⁴fin.⁴·{zcos.'5z --- A¹V(7⁴...3⁴)Bz⁴ 4 A¹⁹(7⁶...3⁶)Cz⁶ ÷ A¹v(78..·3'⁸)Dz⁸ ÷-·-· .
+
+.
+n - - 0 Q a a -
+
+'Unde erit 1z⁴·= A¹³·n⁴Bz⁴ --= 1.2...4Bz⁴; & B -··= Ι 2¹ 4.
+
+ 
+
+Tum
+

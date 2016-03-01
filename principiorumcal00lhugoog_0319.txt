@@ -1,0 +1,54 @@
+1
+quos quadrant3 cum facillime & universaliter demonstretur. figuram laterjbgz
+magnitudine datis comprehensam omnium maximam eam esse, quae circulo·
+potest inscribi. (Vide v. gr. opuscula mea Jam nominata.)
+
+. lisdem principiis insistendo determinari potest figura omnium maxima,
+cujus anguli & perimeter dantur.
+Problema. Inter pyramides triangulares aequealtaS, bafi specie ὅ( magni-- .
+tudine datae infistentes, ea quaeritur, cujus superficies est omnium minima,
+Altitudo pyramidis dicatur 1¹13 latera basis fint A, A', A''. Anguli (quae-
+fiti), sub quibus facies pyramidis lateribus his respestive adjacentes ad bafin inl.
+clinantur, fint x, x', x¹‘respefflve. Punsti, in quo altitudo pyramidis bafi occur-
+rit, a lateribus bafis distantiae sunt respefflve b cot.x, hcot.x', Ιι cot.x'.
+Altitudines facierum pyramidis sunt hcosec.x‚11c0sec x,1100sec,'‚2⁰,
+Duplum areae basss est . 'h(Acot. x ÷ A'.cot x' ÷ A' '.cot x ”)
+Dupla summa facierum est 11(Acosec.x ÷ A 'cosem x ¹''÷A cosec. x ‘').
+Acot.x 4 A'cot.x' -Ι- Amcotx = dato
+
+A cosec x -Ι- Α cosec. x '7- A cofec x'' = minimo,
+
+Hinc Ad-cosec ²x -Ι- Α“ ἷὶ-χ-οοῑεσ. 2x' -1-A' ‘q-ucosec 23! Ξ 0
+
+dv dv dv
+
+A-ffii-cotx cosec.x -i-A' 'dx cot. x 'cosecac '·1-A' ‘licon x '’''cosecx = o.
+
+dv dv dv
+
+Fiat κ’ ’,οοηίὶειηςε erit Adf cosec. 2x ÷A 'Ei-'fi cosec ιχ· = ο
+
+dv dv
+
+Ideoque
+
+Αὲἔ cot x 0010οα4-Ᾰὲ cot. x '·cosec x' = 0.
+
+Ι
+Adx t—-A d—- = cosec. ’.τ’ : cosec. ἓν
+
+Adv du
+
+AdL‘: ·--A' 2135-— = cot. x '.cosec x' εεοικ cosec. x
+
+dv dv
+Proinde cosec. ²x¹ ε cosec. ²x = cot. x '·cosec κ’ :.cot xeosec. x
+
+Hinc
+
+cosec.x' :x cosec.x = cot.x¹ τ cot.x
+1· τ 1 = cos.x⁸ ε cos.x; ideoque πει-κ’.
+
+Eodem modo insertur xss x''. Pyramidum ⁸igitur triangularium aequealtarum,
+’ bafi
+

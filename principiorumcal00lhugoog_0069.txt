@@ -1,0 +1,48 @@
+29
+ᾗ. 18. Theorema. Omnibus utin theoremate §. 16. pofitis , fit
+Q =-.. Ρ-ι- Ax24· Bxb÷ Cxc4Dxd4... . -1- Lx1-1- Mxm -1- an, Dico,
+rationem aequalitatis esse· limitem rationis Q ε Ρ decrescentis aut crescentis,
+prouti A est quantitas positiva aut negativa.
+Etenim (per theorema §. 16.) fiat priore casu Q < P 4. 2 Ax:
+
+altero Q > Ρ -·- 2Ax2, Ratio
+
+aequalitatis est limes rationis decrescentis P 4- 2Axa ·p · „
+& limes rationis crescentis Ρ .- 2Ax²z p 5180, a fortiori, ra-
+
+tio aequalitatis limes est rationis decrescentis aut crescentis Q': P, prouti A est
+quantitas politiva aut negativa.
+
+- obstr-vatio. Quae de casu , quo numerus terminorum functionis Q est illimi-
+tatus, praecepta fuerunt (§. 16· Observ. 2.) huc pariter valent. ¹,
+
+ 
+
+ 
+
+=(x-}-Ax)⁰ ·--x¹¹ ,
+.’ ‹ Ax ⁴ -
+Exemplum. Sit Q— x„ —-(nx—Ax)’ ,ὃς mutatio Ax possit fieri minor qua-
+Ax
+
+cunque quantitate proposita3 ratio aequalitatis est limes rationis Q: nxz· -1,
+
+§. 19. Applicatio. Sint x «Sc y duae quantitateS, quae fimul fieri poffint,
+quacunque quantitate proposita minoreS. Sint Q δι Q‘ duae funfflones praedi..
+aarum quantitatum conditionibus §§. 16-— 13. consentaneae, ita ut fit
+
+Q=P÷Ax=÷Bxb÷Cxc÷Dxd÷ ..... ‘.
+· ρ’ = P' -ι- Ax2'4 Καβί-ι- C‘xe‘4- Dxd‘÷ ., .....
+Dico, limitem Q ε Q' --· P: Ρ. ”
+Etenim} lim. Q τ Ρ = 1⁵ ε ‘1³ (§. 18.)
+P ε P' = 'P :- Ρ
+Ῑίιῃ.Ρ; Q'=1 :1 (ᾗ. 18.)
+Ergo Iim. Q: Q== P. Ρ (§. 14.)
+
+§. 20. Theorcma. sit x quantitas mutabilis, quae major reddi potest qua-
+cunque quantitate proposita. Sint A, B, C, D -. . . . L, M, N coesti-
+cientes magnitudine dati. Sint a, b, c, d . . . . 1, m, η, expo-
+
+ς nentes· etiam dati continue decrescentes.
+D 3 Et
+

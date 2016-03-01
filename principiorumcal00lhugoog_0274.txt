@@ -1,0 +1,44 @@
+234
+Detur summa a quantitatum x, x'· , it rn summa b quantitatum y, y'· , den· Α
+tur etiam rationes tam quantitatum x & y, quam quantitatum x' ‚':y δ’(
+quaerantur quatuor hae quantitates, Si ratio summarum datarum a, b aequalis
+est rationi datae quantitatum lx, y: ratio quantitatum x', y' exinde ita deter-
+minatur, ut aequalis sit priori rationi datae quantitatum x, y3 δι hae quanti·
+
+tates posl'unt esse quaecunque in ea ratione data, quae indeterminatio symboli
+ἕ,- ἰηῑτοᾶιιᾶἰοηε indicatur. ’
+
+Quantitates dataemumero pari a, b, c, d . . . . sint summae
+aut differentiae quantitatum ροντ’, y‚y'‚ z,z', v‚v'. . . . Dentur etiam
+rationes xzy, y':z‚ z'2v, v¹:x'. Fieripotest, ut
+
+¹ quaestio sit indeterminata.
+
+Inter applicationes geometricas propositionis hujus ad indeterminationem
+ducentis tres sequentes indicabo, ,quae quasi sponte se mihi obtulerunt.
+
+Figurae restilineae positione ac magnitudine datae inscribenda sit figura re·
+stilinea cognominis perimetri omnium minimae. CasuS, quo figurae propositae
+numerus laterum est par, ita 'est indeterminatus; ut, fi problema propositum
+poffibile fuerit, solutionum numerus nullum habeat limitem: & facile est inde-
+terminationis hujus nexum cum casu praecedente ostendere. (Vid. Relatio mutua
+capacitatis δ’ terminorum figurarum. Varsaviae 1782)
+
+Pariter circulo dato inscribenda sit figura restilinea, cujus latera per pun-
+sta positione data transeant. Problema hoc casibus quibusdam etiam fit in-
+determinatum3 uti ostendi in dissertatione, quam de hoc eleganti problemate
+ad Academiam Berolinen'sem ante aliquot menses transmisi: & indeterminatio
+haec ad eundem omnino fontem potest reduci. “
+
+. Idem contingit, quando figura restilinea cognomini figurae rettilineae ita in·
+scribenda est, ut latera ejus per punfta positione data transeant, aut sint retiis
+positione datis parallela. γ
+
+Sed misiis hisce quaestionibus magis arduis transeo ad exempla geometrica
+simplicitate sua commendanda.
+
+Sit circuluS‚ cui inscribenda fit linea retia, quae per punftum positione da·
+
+tum transeat. S
+it
+

@@ -1,0 +1,52 @@
+, 7
+2.⁰ Sint ΑΒ, CD limites quantitatum mutabilium decrescentium AX, CT. Fig. .3’
+Si ratio AB. CD non fit aequalis rationi datae m ε ης rursus erit ea ma-
+
+jor aut minor. Tum priore casu ratio m t n aequalis erit rationi ipsius AB
+
+ad aliquam quantitatem majorem ipsa cv),- altero casu ratio m ε ἂι aequalis
+
+erit rationi alicujus quantitatis majoris ipsa AB ad (Ἰ). Ideo- utroque casu
+
+unus ex limitibus augeri deberet, ut ratio hujus limitis ita austi ad ‘alterum
+limitem fieret aequalis rationi m ε n.
+
+’ Sit itaque m t η = AB ε CD' (:>CD). Sumatur CT< CD' (quod fieri
+
+potest per hyp.): Et fit n : m = CY ..AX
+
+Atqui n ε m = CD' τ AB
+
+Ergo CY: AX = CD‘ ε ΑΒ ,
+
+Sed CY <2 CD' Ι Ν
+
+Ergo AX <5 AB, contrahypothesin‚· cum AB
+. fit limes quantitatis decrescentis AX. ' ““
+
+Ratio igitur m ε η neque major est neque minor ratione limitum. Pro.
+inde ratio limitum aequalis est rationi m ε η.
+
+observatio. Haec propositio unum est ex praecipuis fundamentis methodi
+exhaustioniS, qualis sedulo suit ab Antiquis exculta, atque ab Eucumz δε
+ἈΒεΗιΜΕοΕ nobis transmissa.
+
+En aliquot exempla illam illustrantia.
+
+Perimetri polygonorum ordinatorum similium ‚ circulis diversis inscripto-
+rum, sunt in ratione data radiorum circulorum, intra vel circa quos descri-
+buntur. Sed perimetri circulorum sunt limites perimetrorum crescentium po-
+lygonorum ips1s inscriptorum, & limites perimetrorum decrescentium polygo-
+norum circumscriptorum. Itaque perimetri circulorum sunt inter se in eadem.
+ratione data; scilicet iuratione horum radiorum.
+
+. Item: superficies circuli limes est superficierum crescentium aut decre-
+scentium polygonorum ordinatorum, quae ipsi inscribuntur aut circumscribun-
+tur. Sed superficies polygonorum similium diversis circulis inscriptorum aut
+circumscriptorum sunt in ratione duplicata radiorum praedistorum circulo-
+
+rum. Proinde superficies circulorum sunt etiam in ratione duplicata radio-
+rum suorum.
+
+Sint
+

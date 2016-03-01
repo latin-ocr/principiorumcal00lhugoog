@@ -1,0 +1,50 @@
+. 98
+Definitio. Curva logarithmieo se'u logistica ea est, in qua, absciffis in pro⁴
+
+greffione arithmetica sumptis, restae axi ordinatim applicatae geometricam se-
+
+quuntur progreffionem..
+
+corollarium Ex definitioneimmediate sequitur: partem axis absciffarum, inter v
+
+duas rectas axi ordinatim applicatas comprehensam, mensuram effe rationis harum
+ordinatarum· , ita ut, differentia abscifl'arum manente eadem, ratio ordinatarum pa·
+riter eadem sst3 & vicissim‚ ratione ordinatarum manente eadem, differentia ab-
+
+scissarum pariter eadem maneat. Si vero pars axis inter duas ordinatas fit dupla,
+tripla, quadrupla, quintuplast- - - ntuvl²3 etiam ratio duarum ordinatarum est
+
+duplicata, triplicata, quadruplicata, quintuplicatast - - nplicata
+Quibus pofitiS‚ fint duae ordinatae, quarum ratio datur3 & per punaa ex
+
+trema harum ordinatarum ducatur resta, quae axi occurrat, seu linea secans,
+Dico: subsecantem effe etiam datae magnitudiniS.
+
+rig. 16 Sint nimirum MP, M' P' duae restae axi ordinatim applicatae. Ducatur
+MM', quae axi occurrat in S Sit ratio MP: M ’Ῥ aequalis alicui rationi datae3
+
+dico, lineam PS etiam esse magnitudine datam. ς
+Ducatur M'm axi parallela, quae ordinatae ΜΡ 1n m occurrat.
+
+Quoniam ratio MP: M'P' datur3 ratio MP: MP-M' P seu MP: Mm pa-
+riter datur. Sed MP: Mm == ΡΒ : M'm3 ergo & ratio PS : M'm datur. Sed
+
+etiam ΡΣ datur magnitudine.
+Atqui (§. 40. ) subtangens cuiusvis curvae est limes subsecantis3 ergo
+
+etiam, s1 a quocunque punsto logarithmicae ducatur tangenS, quae axi occur-
+rat, subtangens est datae magnitudinis». Quae propofitio (fi opus foret) imme-
+diate etiam poffet demonstrari, evincendo (per absurdum) impoffibilitatem im
+
+aequalitatis subtangentium diversis logarithmicae punfiiis respondentium.
+
+Sit ideo MP== y, AP== κς & fit t subtangens constans: erit t== 313,
+
+&fliz-L. undefiy=1÷v, fit
+
+d y
+(ἔξει-ᾖε·- t(1-—v ÷ „5— v³÷ v⁴-v⁵ ÷v⁶ - . . . .)
+&321 ἰ ετ-1(υ-ὲυ“-ι-ἑυ3--ξυ4-ι-ξ35-’116ψῆ37- . . . .)
+
+ 
+

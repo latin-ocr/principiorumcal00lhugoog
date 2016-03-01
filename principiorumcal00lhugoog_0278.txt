@@ -1,0 +1,40 @@
+238
+
+gnant: eum nempe ‚ quem obtinet, fi quantitatum x & y loco quantitates
+κ-ι-Δας, μ-Ι-Δῃ fimul substituantur.
+
+Quoniam notatio a mathematicis usurpata, qua exponentes differentiales
+‚ funfflonum duarum pluriumve quantitatum mutabilium defignant‚.minus commo·
+da mihi videtur; liceat aliam proponere, calculo (mea quidem sententia) aptiorem.
+Scilicet exponens differentialis functionis Ρ duarum pluriumve variabilium, qua-
+tenus x fola mutatur, denotetur ligno '‘d‘125 & exponentes differentiales suc-
+ceffivi eodem modo sumti ponantur ’‘d“P, '‘dml), '‘d‘'P. . . . Tum exponens
+differentialis funt'tionis '‘d'P‚ quatenus y sola mutatur, designetur yd''‘d'P; δι
+generatim exponens differentialis mti ordinis funEtionis '‘dNP, quatenus y sola
+in hac funRione mutatur, sit ydM '‘dNP.
+
+Quibus suppofitiS‚ paucis ostendam: quomodo theorema Taylorianum, de
+funftionibus unius tantum quantitatis mutabilis demonstratum, ad funftiones
+duarum pluriumve quantitatum mutabilium extendatur; *a functionibus duarum
+quantitatum mutabilium x, y, quae fiant x-l-Ax, ῃ-Ι-Δμ, ordiund0.
+
+§. 161. APer theorema Taylorianum (ΟεΞῖτΙΔιΙΙ) est Axsi
+
+           
+
+ 
+
+*ΡΞ Ρ-μΔέ ’Ndpq--J d''l’÷4—³- ἤι”Ρ-μ- ἰω-Γ ”d 1²4--
+1. 2 1. 2.3 ..4 --5
+YP—P4Ayyd'p4-A325d'124 Ass-⁹· yde-l--AAE ‚davp4fflyd⁹p4“· . ..-
+Proinde μ 1. 2 122..3- - 1...4 1...5
+ῗΡεΡ-ι-Δ-θῆι ·Ρψῖ-ᾈΣ ’ρι’ Ρ ÷ ῙέΞέἤιῬ-ι- 14:1²¹?de -ι- {ffg'd'P-l-
+÷-( ’‘'dP-fl-Qrd· Ἰριιι>ι-ΔῙ-Ξ..2ἤι’ *magistu ἨΙΔριΡι- ffiydfflfflffi...)
+-ι-έζέξζ. . . . ἤι”Ρι--ῒέγρι ἤι’·Ρψ-- ²³9³ ἤι’· ἤιῬι-.. .)
+. 1.2 1..23
+-ι-ξξέ( ..... ... ἤι’·ΡψΔῙ-ἸἮ· wP÷-‘}-²-{2³d”⁸d“..p÷ .)
+4-ἓέ ............. ἤιῬψΔΞΥρι· “·ριῬι-.. .)
+-ι-ζξέ( ......... f ........ ’‘dm—...0
+
+Pari-
+

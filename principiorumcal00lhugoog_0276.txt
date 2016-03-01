@@ -1,0 +1,47 @@
+236
+
+'plicar13 & huc quoque revocatur indeterminatio, cui ansam praebet problema
+locale, quod exposui in opusculo meo inscripto: Rzlygonometrie, pag. 72-93,
+Indeterminatio haec, ubi occurrit, affestiones quasdam generales quanti-
+tatum, qu'ae locum ei praebent, potest indicare. Sic v. gr. postremum exem·
+plum intime connectitur cum proprietate centri gravitatis, de qua vide §. 125 sq.
+Sufficiat paucis exemplis elementaribus assertum hoc iterum illustrare.
+Circulo dato inscribendum fit* quadrilaterum, cujus anguli dantur.
+Sit ABA'B‘ quadrilaterum propositum, inscribendum circu10, cujus cen- '
+trum C δε radius CA· Agantur radii CA, CB, CA2 CB‘.
+Sit ΕΑΒ = CBA' = x
+Erunt CBA' τι (ἿΑΙΒ = B--x
+CA'B' = CB·'A'' ε Α’-Β-ὶ-ασ
+effa ε.- cAB' = B·'-A'÷B-x = A-x, -
+Unde angulus x fit indeterminatus: & fimul A 4- A' -ε Β ÷B‘; seu disci'muS,
+summas angulorum alterne sumtorum esse invicem aequales. Idem valet de
+
+rigum.
+
+quavis figura restilinea numeri laterum pariS, circulo inscribenda. Huc etiam
+pertinet casus indeterminatus problematis in Geodaefia tantopere utili-s; quo, tri-
+bus punf'cis politione datis, quaeritur quartum punfium‚ observatis ex hoc- pun-
+ἃο anguIiS, sub quibus mutuae priorum punPcorum distantiae apparent.
+
+' Idem dicatur de summis laterum alterne sumtorum figurarum circulo cir-
+cumscriptarum.. · τ
+
+Sint A, B, C latera alicujus trIanguli;
+
+a, b„ c anguli his lateribus oppofiti: quamdiu latera· A δε Β sunt
+
+invicem inaequalia, ac proinde etiam anguli a ὅ( b invicem inaequale55 est
+
+tang.‘-³.'2'Llf. ’τ tangfl'il = A÷B :A- B: data igitur ratione (inaequalitatis) late-
+
+rum A& B, δι data differentia angulorum a δε b,¹ determinatur tangens dimidiae
+
+summae horum angulorum· per aequationem tangffl} =-··· tang-{kx 131—ss
+
+Ἰ Sint autem Iatera A„ B invicem aequalia: fit tangE-ZZ :tangff—J'x ἐς δε
+
+ 
+
+hoc foret fignum impoffibilitatis, nifi effet simul ,ατ-.- b, & tangss-J: 0: unde
+tang.
+

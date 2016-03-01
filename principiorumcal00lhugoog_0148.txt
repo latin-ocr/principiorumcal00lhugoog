@@ -1,0 +1,49 @@
+108
+
+Atqui primus terminus omnium membrorumssp‘riorum, fi juxta §. 72. in
+series explicentur ‚⁹⁴ continet tertiam potestatem z3 arcus mutabilis z ; ita ut
+membra haec evoluta secundam arcus hujus potestatem 'z2 non contineant:
+proinde posteriora etiarn aequationum harum membra potestatem z2 non conti· <
+nebunt. Sed in posterioribus membris coe'fficiens potestatis secundae z2 est
+n'n2A.-= 1. 2Α. proinde 1. 2A==0‚ δι A== 0.
+
+. Eodem modo demonstratur ιιι serie fin. z: z-Az²÷ Bz³÷Cz⁴÷ 0:3⁵4..
+-omnes deeffe arcus mutabilis potestates exponentis paris. Scilicet. sumtis
+differentiis ordinis zm, quae sunt ss 22m1in. 2m{-z sm ‚pz (§. r. Introd„) primus ter-
+minus omnium membrorum priorum continet potestatem z2m413 ita ut in his
+membris defit potestas par zm.
+
+At vero primi termini omnium membrorum posteriorum continent hanc
+“ potestatem parem, affefiam coefficiente, cujus unus fastor est constans ·
+Aszm ·--= 1. 2. 3.. .2m (§. qMIntrod). Quare cum potentia haec exponentis paris
+ex secundis etiam membris debeat exulare, alter co'efficientis illius fastor eva-
+
+nescat oportet3. δι proinde serieS‚ qua finus per arcum exprimitur, hujus est
+formae sm. z = z—Az³÷Bz⁵÷Cz⁷÷Dz⁹ ÷.
+Sumtis differentiis tertiis erit (§. )
+‚2³sm.³-¹2-zcofi{z = A“'(4³...1³)Az³ -A'''(4⁵...1⁵)Bz⁵——A'(4⁷...1⁷)Cz⁷ —
+. 2³s1n.³{zcos.12⁷-z = A'(53...2³jAz3-A'''(5⁵...2⁵)Bz⁵—A'''(5⁷...2⁷)Cz⁷ - . . . .
+23s1n.³3zcos.{z = A”(6³...3³)Az?-A“'(6⁵..23⁵)Bz⁵ -‚A'''(6⁷...3⁷)Cz⁷ - . . . .
+
+C ⁶ ι υ n n a ι- n
+
+O d - - n ρ - n
+
+Quoniam* primus terminus omnium membrorum priorum juxta §. 7²· in
+series evolutorum est 1z3, erit etiam primus terminus omnium membrorum
+posteriorum 1z3. Sed'(§.q.lntrod.) Δ’”η3 .--.. 1. 2. 3 ς ergo 1 = 1. 2. 3Α, δε
+A - 1 . ,
+
+ι. 2. 3
+
+Sumtis differentiis quartis δε deinceps quintis erit
+2⁵fin. ⁵-1-zcos.}z = A⁹(6⁵...1⁵)Bz⁵4-A (67.. ..1⁷)Cz⁷4-A⁹(6⁹. ,1⁹)Dz⁹-÷
+2⁵s1n.⁵¹zcos.{z = AV(7⁵.. ,2⁵.)Bz⁵-4-A⁹(7⁷. .2⁷)Cz⁷ ÷A⁹(5⁹.. .2⁹)Dz⁹÷
+2⁵sm. ⁵}zcoss2z ·--- Δ“(85.. , .3⁵)Bz⁵-4-A⁹ (87. 3⁷)„Cz⁷÷A''(8⁹. 3⁹)Dz9 -4- . . . .
+
+- .. . .. .
+
+ 
+
+Primus
+

@@ -1,0 +1,50 @@
+, ,23 .
+
+corollarium 2. Si rationes , quae sunt limites duarum pluriumve rationum
+mutabilium, respective* aequalesj fint rationibus, quae sunt limites totidem alia·
+rum rationum mutabilium3 dico: rationem. quae est limes rationis ex prioribus
+rationibus compositae, aequalem effe rationi, ‘quae est limes rationis ex posteri00‘
+
+ribus compofitae. ’
+Exemplum. Sit lim. Χ. Y(= a . ὁ) =-. lim. X' 2⁸Y
+
+lim.:Y Ζ(..-;ι,. c)=1im.T: Ζ·
+, ,, lim-Z : V(= ⁴c : 11),ss -lim.Z¹ ε V', & fic deinceps
+erit lisn.XtV(=a:d)=lim.X'-:‘V⁶.
+Pariter fit lim.X τ· Y(= a :·1›) = lim.x‘ ε Υ’ =
+
+⁸ Y:Z(=b:c)=lim.Y':Z'
+liln.Z:V(=c:d)= 2¹:V'
+
+Erit lim.X ε Y(= a : d)=‘ lim.X' : 2¹: & fic deinceps,
+
+quicunque fit rationum numeruS, ἀ quomodocunque rationes limites & ratio·
+
+nes constantes in stmilibus proportionibus inter fe combinentur.
+
+corollarium 3. Sirationis X: Y limes fit ratio A. B
+· &rationis Z: V limes fit ratio C. D
+
+fit etiam rationis XZ: YV limes · ratio AC: BD
+Etenim quoniam A. B = fini. X τ Y
+‘· 3Ac'2Bc ς lim.XZ:YZ
+Pariter BC: CD = lim. Y Z Y V
+⁴ Hinc . AC. CD -Ᾰ- ·1im.XZ: IV3 quod verum,
+quicunque fit rationum numerus
+Corollarium 4. Rationis A: A -i- x limes fit ratio aequalitatis, Rationis
+
+A ss x: Y limes fit ratio data α : b. Dico, rationis A ss x ε Y·- -ι- x limitem
+
+essb rationem a: b.
+²· Dem. Quoniam lim. A :Assx=1: 1⁶
+
+ 
+
+et· lim. A-i-x· Y- -·= ait: b ·
+Erit lim. A ε Υ .-..- α ¹: b (ᾗ. 14.)
+' Hinc lim. A Α-ι- Y ‘= a ²⁰†5 (§. 7.)
+Sed lim.Assx:A ·=1':r' β
+
+Ergo· · lim-‚Assx2A4Y e a : α-Ι-ὁ (§. 14.)
+Hinc Em·Assx:Y.T-x.= a: b (§. 7.)
+

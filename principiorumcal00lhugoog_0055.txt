@@ -1,0 +1,45 @@
+1⁵
+
+unius illarum quantitatum five crescentis five decrescentis. Dico, dari etiam
+aliquam quantitatem C', quae fit limes posterioris quantitatis mutabilis pariter
+crescentis aut decrescentis: & quantitatem hanc C' eam esse, qua fiat C : A ε
+C‘ : A'. Demonstratur eodem modo quo Theorema praecedens, ’
+
+§. 10. Theorema. Duae rationes mutabiles fint semper inter se aequales3
+ὅ( fit ratio aliqua data limes unius harum rationum mutabilium crescentis vel ι
+decrescentis: dico, eandem rationem datam effe etiam limitem posterioris ra·
+tionis crescentis vel decrescentis
+
+Sit semper . Χ· Χ’-- Y: Y‘
+Etsemperfit (V· 8¹2) Χ· X'·<A C‚· sedlim. Χ. X'=A:C
+Dico etiam - - - .. . . .:Y T ς A² c·
+Etenim (per hyp.) X. X'= Y. Y'
+
+Sed X. X‘ <2 A. C
+
+Ergo ἢ Y. Y< A. C'. Sitc‘;>c &proindeffl C>A2 C.
+‚Fieri potest (per hyp) X: X' > A. C',·
+Fiat ς & erit Y : Y ⁹ t> A: C'. Proinde ratio A : C etiam est limes
+incrementi rationis Y : Y'. ἡ ·
+Corollarium. Si ratio aliqua data limes est rationis duarum quantitatum ”
+mutabilium: eadem ratio data limes quoque est rationis quantitatum, quae sunt
+
+'aeque-multiplae vel aeque-submultiplae posteriorum.
+§. 11. T beor-ema. 'Sint duae quantitates datae, quarum una fit limes ali-
+
+cujus quantitatis mutabilis decrescentis ς altera vero' limes fit alterius quanti·-
+tatis mutabilis crescentis; ita ut magnitudineS, quibus duae quantitates muta·
+biles a limitibus suis respeftive differunt, fimul fieri poffint minores quibuscun-
+que quantitatibus propofitiS. Dico: rationem, quam prior quantitas data habet
+ad posteriorem, effe limitem rationis decrescentis, quam prior quantitas muta-
+
+· bilis habet ad posteriorem.
+
+Sit AB limes quantitatis mutabilis decrescentis ΑΧ,· & CD limes quantita-1156·
+
+tis mutabilis crescentis CY. Quoniam {7155ng est AX: CT 5> AB: CD.
+
+Dico: rationem AX: CY posse reddi minorem quacunque ratione propofita,
+
+. quae major ‘fit ratione AB : CD. ’ Sit
+

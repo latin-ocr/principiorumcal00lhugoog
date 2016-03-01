@@ -1,0 +1,58 @@
+136
+
+restas parallelas extensa forent in ratione duplicata distantiarum harum paralle-
+
+larum, cum spatia haec inter se effe in ratione fimplici harum distantiarum tra·-
+
+dantur. ’
+
+§. 93. Ut hattenus dista , quantum fieri potest, distincte curvarum dostri- ο
+⁷ nae poffint applicari 3 a curva in elementis considerata, circulo nempe, ordiar.
+
+fig-²0· Sit, circulu·S‚ cujus centrum C, radius CA = r. Ex pun&0-M ducatur tan-
+
+gens MT, quae radio CA produtto 1n T occurrat; seu fit MT ipfi CM perpendi
+
+culariS, atque ex eodem punCto M demittatur MP perpendicularis radio CA. Sit
+
+CP= x; erit CT— .--.- -r, Expressio haec (ex fimilitudine triangulorum CMP‚
+
+x
+
+cTu deduRa) valorem restae CT determinat„ quamdiu ipsa C-'T existit. Ut
+autem proportio CP: Cu == CM ε CT, seu x z r = r: CT, institui poffit, ne·-
+ceffe est, ut CP ad CM seu x ad r aliquam habeat rationem; seu necesse est,
+
+(triangulo CMP existente) linea ΟΡ non fit zero.Pos1ta igitur CP=0 =0><r‚
+
+symbolum CT- = ’Ὺ = -s- monet non amplius locum dari subtangenti. Hoc
+
+ΟΧΥ
+
+etiam ex antediffis fluit (§c> 92.‚) curn hoc casu anguli ACM, CMT ambo fint
+resti3 ac proinde lineae CA, MT invicem parallelae.
+
+ 
+
+Idem valet de ellipsi, cujus '·aequatio est y = {Astom- xx). Itaque sub-
+
+ 
+
+¹ tangens ΡΤε-ῘΞῘ--κς unde cotJ’MT: -Ξ-Υαῖ xx. Faffo x= 0= αχο, ’
+fit PT ἐκ ἓ, cot.PMT= {x 0; unde angulus PMT== 900, &PT deter-
+
+minari nequit. ,
+
+Ut haec clarius etiam, fi fieri poffit, ob oculos ponantur, regrediamur ad
+definitionem subtangentiS‚ ἀ ad modum, quo determinavirnuS,= eam esse limi·
+tem (ss quis fi‘t) subsecantis. Posuimus (§. 39.) tangentem curvae diametro, ad
+quam refertur, occurrere. Intervallum quoddam datum limes est datus (juxta
+definitionem §.1.), ad quem subsecans perpetuo accedit‚‘ sed quem nunquam
+attingit. Sublato tangentis & diametri occursu mutuo , fundamenta omnia,
+quibus rationiS, quam subsecans habet ad lineam diametro ordinatim'lapplica-
+
+ng. 11. tam, limitem determinavimus, per se labuntur. Linea M Q, diametro & pro-
+
+inde tangenti parallela‚ tangenti non amplius occurrit. Sublato itaque trian-
+gulo
+

@@ -1,0 +1,65 @@
+225
+
+quae est limes posterioris membri hujus aequationis,‘ limitem effe‘etiam expo·-
+
+ 
+
+ 
+
+ 
+
+uenus differentialis fil-“LK ‘seu A = ¹ nmfssffiss.
+¹ ἢ xm 1.2...m dxdssnp dmp
+ll —--- -,
+'Pariter B:1 2¹ ωὶὶηιὲἒὲς unde ἕ- = h ((11ζέ = Ῑὶωὲἔῐὲ.
+Hanc observadtionem‘ paucis exemplis illustrare* haud alienum abs xe erit,
+Sit E: Q· H Ξ cos-³⁶ limgg = lime—952⁸} ·-· 1
+Q. x '‘12:1⁸‘' {Q ⁶1 '- ⁹
+dx dx
+dP dP
+
+Sit P .- tang-x d'a'c' = see.²x 53,-
+
+Q ..- Λὶψ, ἐξ = Ι lim. {q = lim.se0.2x= 1.
+
+dx
+
+. Sit S summe progreffionis geometricae S = 1÷x÷x²÷x3÷...÷x¹¹-1: est
+
+S Ξ Ἰῑῖἷη .-.. 3¹31, prouti progreffio decrescit, aut crescit inde ab unitate.¹
+
+Quodsi autem {series propofita neque crescit neque decrescit ; seu fi series pro·-
+1---1n = 1-1
+
+——.
+
+1—1 1—1'
+
+ 
+
+ 
+
+pofita terminis constet inter se aequalibus: fit S :a
+
+ 
+
+⁴Dico autem: methodoS, quibus progreffionum geometricamm sutnmae in·-
+vestigantur‚ ad hunc casum non posse applicari.
+
+Prima methodus-eo redit, ut inferatur (ex Prop. 12. Lib. V. Elem.): summa
+omnium terminorum excepto ultimo est ad summam omnium terminorum ex-
+cepto primo, uti primus terminus ad secundum. Unde, casu aequalitatis omnium
+terminorum, fit s—1 ε S--1 == 1 ε 1 , S-³-1 = S—·-1; quae est aequatio identica,
+, ex qua nihil concludi potest: &¹ fi computus ulterius continuetur, fit
+10-1
+
+S(1--1) = 1—1 , S =iti , quae est expreffio indeterminata.
+
+Transeo ad alteram methodum.
+Sit ‘S = 1÷x÷x²÷x3÷x⁴÷‘„,xn-1 “
+erit Sx ¹= ‘x÷x²l÷x⁴†x⁴÷. ..κΰ-ῐ-Ι-κῦ
+unde Soc-1) =- 1 , -Ι-κΰ (fi 'piogreffio crescit) ’
+’ - , S(1·x) = 1 - κῆ. (fi progreffio decrescit) ’
+
+F f Sit
+

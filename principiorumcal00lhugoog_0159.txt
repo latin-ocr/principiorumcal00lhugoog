@@ -1,0 +1,55 @@
+ιιι)
+
+· §. 81. Formulae differentiales capite hoc traditae (§. 76.) felici successu
+ad investigandas proprietates linearum transcendentium, funfflones circulares
+involventium, adhibentur. Sufficiat, exempli loco de cyclo'sde dicere, -cujus
+tam frequentes δι eximiae in mathesi mixta applicationes occurrunt.
+
+Sit AB axiS, & BD bafis cycloi'dis AMD. Sit ANB semi-circulus, super Fig,1g,.
+axe AB tanquam diametro·descriptus; ὅ( resta MP axi ordinatim applicata cir·
+cumferentiae hujus in N occurrat. Est MN = arc. AN. Sit AB = 2r, AP=x, ο
+
+ΜΡ = ,¹13 erit itaque y == V(2rx--xx) -Ι- rare. fin. wi: unde
+
+ο-
+
+ 
+
+ 
+
+dy ,- θ’-λῐ ¹· ,,, ἀν’-κ r2r--x V'(2rx-xx)
+H} “” m÷vss(2rx-xx)-WGYT= x Ε.
+{1¹} = cot.ANP. Sit MT tangens cycloidis in M ; est g} = cot. TMP (ᾗ. 41)=
+quare cot. TMP = cot.ANP; TMP= ANP3 ὅ( proinde MT est ipfi NA pa-
+rallela. π
+
+Si effet y '= νᾶα-κατ) -Ι- Raro. fin. v.-t-; effet
+
+ 
+
+ 
+
+ 
+
+dy r-x ·R ,,, R 4⁷·-x , ..
+ὦ = V‘(2rx-xx)÷7’( 2rx-33v‘) - γ (2rx-xx)‘ unde cycloidum contrasta-
+
+rum & protractatum tangentes determinantur.
+
+CAPUT OcrAvum.
+
+De summa et ‘differentia duarum quantitatum exponentialium
+ι in ffiHores rcffblvenda.
+
+§. 82.
+
+. Summae & differentiae εἰ ss ey duarum quantitatum exponentialium ε* , ey, p
+in fastores resolutio tanti est in calculis superioribus momenti, & adeo foecun-
+das suppeditat applicationeS, ut ei evolvendae merito mathematici studuerint3
+quos inter eminet celeb. Emmaus in Introdufft'ioue ad Analyfin irfinitorum aliasque.
+Cum autem Euleriana methodus notione infiniti innixa minus mihi arrideret3
+optabam, ut resolutio haec ad genuina & elementaria limitum principia poss'et
+
+reduci. Quod me praestitssse opinor in dissertatione inscripta: Sur la Decompcfi-
+tion
+

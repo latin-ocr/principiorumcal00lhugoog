@@ -1,0 +1,69 @@
+30
+Et slt Q = Ακει -1- Bxb 4 Cxc -l- Dxcl 4- . . . Lxl -1- Mxm÷an. Dion, ratio·
+nem aequalitatis esse limitem rationis Q ε Axa. *
+
+ 
+
+Demonstratio. Q=x²(A†B3c-}5†C—¹—†D.-1-÷...L-I-÷M 1 -Ι-Ν-Ξ..
+
+‚xa-c ρει-ἀ ‚xa-l x2-m ,χο-η’.
+
+Quoniam autem x major potest fieri quacunque quantitate propofita, {- potest
+
+fieri minor quacunque quantitate propofita ; ὅ( quoniam a, b, c, d . . . 1, m, η,
+continue decrescunt, exponentes a—-b, a--c'‚ a-d . . . a--1‚.a—-m, a—n, con-
+
+tinue crescunt; ὃ( proinde, quantitate mutabili x pofita majore unitate, termini -
+
+1 Ι Ι Ι Ι 1
+
+3335, ἷζε, 533, . . . . 35:1⁹ x²·m’ κῃ, continue decrescunt ; δε proinde
+
+(§. 16.) quantitas Bss-n-CL-l-Dssq- . . . ..pL-¹- 4111 1 ÷N 1
+
+,xa-*C >0²⁹¹ ,χῶ-ΠΙ xa.n
+
+ 
+
+ 
+
+ 
+
+potest
+
+reddi minor quacunque quantitate'propofita. Hinc quantitas A limes est quan-
+
+ 
+
+ 
+
+. titatis 'A 4- Bssq-Css-p-Dss-p... ιῖξῑι-ι-Μζὲῃ-Ὶ-ι-Νχζῃ, seu
+’ lim. A 2 A÷ Bss÷css÷oss÷ngfffMfgm÷Nxssn =..- 1: 1
+
+& lim. Ax²tAx²÷ Bxb -Ι- Cxc -Ι- Dae<¹ ÷ . . . Lxl -f- Mxm† Nx¹² =‘1:'1.·
+seu tandem lim. Ax³ ε Q == 1 : 1.
+
+Exemplum. Existente n numero integro pofitivo: vidimus (§. y'. Introd.)
+summam potestatum ordinis m numerorum naturalium {ab unitate usque ad n
+
+continue crescentium, esse sequentem:
+
+ 
+
+snm: ssnm-kr -Ι- Bnm 4- Cum-‘1 -Ι- Dum-2 4- Eum-3 -Ι- ......
+. Proinde lim.sn¹¹²: msslnm-Pl == 1 : 1,⁶ ξ
+seu masam τ nxnffl = 1 ἕ ἠ-4-1· ⁴
+
+Hoc est: limes rationis summae potestatum cujuslibet ordinis numerorum natu-
+ralium continue crescentium inde ab unitate, ad maximum horum numerorum
+toties sumptum quot sunt praedisti numeri, est ratio unitatis ad exponentem
+
+praedittarum potestatum unitate auttum.
+
+Sic lim.J.'n :nm = 1 :2
+1ἱῐ1’1.]ἶη2 :n-n2 == 1 :3
+hm.s.'n3 ε ῃ.η3 = r :4
+hm.sn⁴ z n.n⁴ -.= 1 :5
+
+δίο. &c §. 21
+

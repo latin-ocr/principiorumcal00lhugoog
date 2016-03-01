@@ -1,0 +1,42 @@
+“ Erit ABsm.y
+
+Sit z constans: erit {fi (φὶ-ε) ψ-ᾀὲ-(κψκ) :o
+osv-'3 ,fl-3337* et z ε z :yzx
+
+unde y = x. Eodem modo y = z. Proinde x== y ει· z. ι
+
+problema. ⁶ Omnia latera figurae alicujus restilineae praeter unum dantur
+magnitudine. Quaeritur figura omniurn maxima, lateribus datis & latere non
+dato comprehensa.
+
+Lemma. Area figurae cujusvis rectilineae serniflis est summae restangulo-
+rum omnium laterum binorum sumtorum‚ uno excepto, dustorum in smus sum- ⁴
+mae angulorum externorum ‚ qui inter latera haec comprehenduntur. Vid. Opu-
+sculum inscriptum: Polygonometrie, Geneve 1791 .
+
+Exemplum 1.- Figura proposita fit quadrilatera .
+. Sint A, B, C tria latera magnitudine data3 ὅ( sint y, z anguli figurae ex-
+ᾖ terni, inter latera A& B, B & C respefflve comprehenfi.
+
+÷ACfin.(y†z) -Ι- BC sm.z Ξ mammos
+
+-H‘mc ABg-'sfi cos.y
+= o.
+
+4- 110(ἓὲ ἓξὶοοίὶ (y÷z)÷BC{-} cos. z
+
+Ponatur z constans ε erit ÷ffgcffiffl÷z>= o 3 unde B cos. y = C coss(1800 . (φὶ-3))
+
+Pariter fatto y constante ÷gg{Z{({÷z)=0² unde B cos, z: Acos· (1800 ,, (y†z))·
+
+Exemplum 2. Figura propofita sit pentagona. κ
+
+⁸ Sint latera data A, Β, C, D;
+anguli externi quaefiti x, y, z.
+
+Ideoque (Lemma) AB fin.x
+÷ACs1n.(x÷y) ÷ Bcsm.y = max,
+
+, ÷ADs1n.(x÷y÷z) ψ BDfin.(y-1-z) -ι- cosma
+Ι Mm 2 · hinc
+

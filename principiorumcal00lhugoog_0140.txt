@@ -1,0 +1,41 @@
+100
+
+§. 65. Quemadmodum curva logarithmica apta fuit ad theoriam logarith-
+morum illustra11dam3 ita δε aliae fingi poss'unt curvae, quae eidem scopo respon⁴
+derent. 'Celebris ob¹ insignes suas proprietates apud Geometras est curva spira-
+lis legarithmica dista. In hac curva angulus inter duos radios vestm-es compre-
+hensus est mensura rationis horum radiorum3 unde sequitur, data duorum ra-
+diorum ratione, specie etiam dari triangulum his radiis vestm-ibus ὅ( chorda ·
+ipsorum extrema jungente comprehensum. Proinde data ratione duorum ra·-
+diorum3 secans spiralis logarithmicae, per puncta extrema horum radiorum duaa,
+inclinatur sub angulo dato alterutri horum radiorum3 unde concluditur (per
+§. 4.) angulum, quem tangens spiralis logarithmicae facit cum radio ad pun-
+etum contactus du&0‚ constantem effe in eadem spirali· loga'rithmica. Et diver-
+fitas hujus anguli determinat systema logarithmicum spirali huic respondens.
+In hyperbola conica ad asymptotos ‘relata , spatia hyperbolica inter duas ordi-
+natas comprehensa crescunt etiam ut logarithmi rationum absciss'arum. (Vide ‘
+
+’ - Caput Χ.)
+
+§. 66. Ex praecedentibus determinantur rationes differentiales quarum-
+libet quantitatum exponentialium‚ quod nonnullis exemplis ostendam..
+
+10. Sit P = xme⁸3 erit
+
+ 
+
+(ἐς .--. e⁸(mxm-1÷xm)
+
+ddi> .. x „
+
+<lx-2, - e (alfric-{xm-242mzm ῐ-ὶ-ᾳῦῑ)
+
+,ἒξ --- ex'(m.m-1.m-2xm-³÷gm.m-1x¹¹···2÷3m·x¹¹¹·¹4³⁶³&
+
+· {sr- e¹ (m.·.n1-3xm-·444m..·m·2aim-3÷6m.m-15>e¹²¹-2÷4mxm·1 4³6⁸)
+
+{ji—s == θ’ (m m tum-⁵4 sm m axm·⁴÷10m...m-2xm-3÷10m m xxm-t-smxmfli-xffl)
+
+,ἒξ ε.. ex (m..m·(n-1)x¹¹¹-¹¹÷-’.⁸¹-.m m(n·2)t¹¹²·¹¹·1÷2 3230· m (n·3)x¹¹² ¹²·24····⁹1⁸-mx¹”‘¹4x'¹¹)
+αἶ’. Sit
+

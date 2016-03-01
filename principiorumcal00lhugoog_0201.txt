@@ -1,0 +1,46 @@
+‘ μ’ ιόι
+
+¹Si m = 23 fit μεως, quae est aequatio ad lineam restam: in reliquis ca-
+
+sibus curva est parabolica, ad axem 'aut ad tangentem ex vertice ductam
+relata.
+
+3⁰. Sit m < 13 fit y(1 -m)·l- κῗᾶ = 03 unde (1 -m)log.y -i- log.x = log.C;
+
+{jhm-r = C, quae est aequatio hyperbolarum ad asymptoton relatarum.
+
+Sit S=t(b·y), g}=—·tg-}. Ξεάἒὲεῃτ εῐςοῃεπ-ιὲ-Ξ, &
+
+1 =— ἔι- >< (ἓξ-ς ‘hinc x=C—tlog.y. Sit x=a, quando‘y=b; x==tlog.b—tlog.y‚
+seu {- = leg} , quae est aequatio curvae logarithmicae.
+
+Curva referatur ad aliquem focum; ὃ( fit S = yy >< ἒ. Erit
+
+[if == yy x} —l- ayg—xy-xff. Atqui gzyy(§.1o4)z ergoyy(1·-}) = 2y.‘(}-}><f.;
+
+dx r
+dx 1 1
+
+seu y(r· 1) = avgg, ὃ( {ixi} = yxi? hinc C-l-{loguv :gi-logffi seu
+2
+
+-g-logmx ε -1-10g,y, ax=yiT1, quae est aequatio ad, spitales vulgares.
+
+r-1
+Sit S = {w ἐξ τήμὲ-ξε --·· 993 2{·{} =³ π ἐξὲξ-Ξ ξς
+
+C -ι- ³2-{x ..τι log.y, quae est aequatio ad spiralem logarithmicam.
+
+A p p e n d i x·
+⁶ De* quadratura hyperbolae conicae.
+
+Ne series propofitionum principalium , hoc capite contentarum , abrumpere«
+tur; satius effe ratus· sum particularem hyperbolae conicae quadraturam, geome-
+trice confideratam seorfim exponere, ut sequitur. (Vid. §. 99.)
+
+§. 107. Lemma. Si curva quaecunque diametro fit praedita (hoc est, fi ’
+datur reeta, quae omnes rectas fibi mutuo parallelas δε curva utrinque termina- ξ
+tas bifariam secat): dico, hanc diametrum spatium quoque curvilineum in .
+duas partes aequales dividere. ⁶ , , H
+-X , Ι ’ “ Etenim
+

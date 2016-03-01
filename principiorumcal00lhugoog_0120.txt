@@ -1,0 +1,46 @@
+80
+
+crescentis arcus circuli ad suam chor‘dam3 ὅ( proinde etiam dimidii arcus ad
+dimidam chordam, feu arcus ad smum ret‘tum.
+
+’ Corollarium 2 Rursus ratio aequalitatis limes est rationis crescentis arcus
+
+’ circuli ad tangentem ejus trigonometricam.
+
+Ceterum corollaria haec 'de circulo potuissent ex propositionibus Anem-
+Mnms de figuris ordinatiS‚ quae circulo inscribuntur & circumscribuntur, de
+duci. ⁴ ⁷ ι
+’π corollarium 3. Pofito igitur finu alicujus arcus s, ipse arcus funfflo est
+smus hujus formae (quae deinceps accuratius determinabitur)
+
+s 4 As24Bs³ 4 Cs⁴ 4Ds⁵4 ..... ideoque ratio arcus circuli ad finum rectum est
+14As 4Bs24Cs34D544...: 1 & ratio aequalitatis est umes hujus rationis
+decrescentis (ς. 18.) 4 ·
+
+Item fit t tangens trigonometrica alicujus arcus circuli, erit arcus functio
+
+tangentis hujus formae t--At2 4Bt3 4Ct4 4Dt⁵ 4.. ..Atque ratio arcus cir
+culi ad tangentem trigonometricam 1 -At4Bt2 4Ct³ 4Dt⁴ -Ι- . .,. : 1. Hujus
+rationis crescentis limes est ratio aequalitatis (§. 18.) ’
+Viciffim‚ pofitoarcu circuli z, erit t == z4Az24Bt³4Ct³4Dt⁵4 ......
+t : z = 14Az 4Bt²4Ct³'4Dt44. . . ⁸. ε 1.
+‚ ‘sm-⁴·- z—Az²†Bz3†Cz4-}-·Dz⁵·†· ......
+s ε z == 1f-Az 4Bz24Cz³4Dz⁴4'. . . . z¹ 1. ,
+
+corollarium 4. Quoniam siin. verfiz ---‚- 255, erit ·s1n. vers. z· =
+A¹zz4B'z³4C'z44D'z⁵4 . . . . Sed haec satius est sequenti modo deducere.
+
+Ratio* chordae ad smum versum potest fieri major quacunque ratione data.
+
+Etenim ratio ,radii dupli ad chordam aequalis est rationi chordae ad finum
+versum: sed prior ratio major reddi potest quacunque ratione data3 ergo δε
+posterior.
+
+Hinc etiam rationes·arcus ὅ( finus resti ad smum versum possunt reddi„
+majores quacunque ratione data. Et ratio aequalitatis limes est rationum, quas
+finus renus, chorda, arcus -’- - habent ad ‘summam aut differentiam quanti-
+tatum harum & smus versi (imo & quantitatum, quae ad⁴ finum versum datas
+'habent rationes ᾗ. 18.)
+
+§· 49·
+

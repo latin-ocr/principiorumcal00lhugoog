@@ -1,0 +1,43 @@
+271
+x Exempla haec ostendunt, methodum posteriorem (quatenus quantitatum,
+
+quae ffiffiffge reddi debent , evolutionem non requirit) priore methodo gene·
+rali posse ess'e faciliorem ac breviorem.
+
+§. 185. In exemplis praecedentibus relatio finita inter quantitates inco·-
+gnitas ita fuit post differentiationem determinata , ut ipsae quantitates incognitae
+(quoad imperfefta aequationum dostrina permittit) possent affignari. ’ Transeo
+ad exempla, quibus quaestio propofita indeterminata esse videtur, quoniam quan-
+titatum incognitarum numerus videtur aequationum 'numerum superare : cum
+tamen quaestio propofita reapse fit determinata, fi natura ejus attentius perpen-
+datur. Hoc quaestionum genus · ut facilius intelligatur, nonnulla proponam
+
+exempla, a simplicioribus ordiendo,
+
+Exemplum primum. Summa proposita ‘n dividenda fit in tres partes, fic ut
+summa quadratorum ex iisdem Tattorum fit omnium minima.
+
+Hoc casu tres occurrunt quantitates incognitae, δι tamen prima fronte duae ’
+tantum proponi conditiones ¹*videntur , quarum una ad summam datam ¹trium
+partium refertur, altera ad summam omnium minimam quadratorum earundem. -
+Quare problema propofitum potest videri indeterminatum: quod tamen , re ac-
+
+curatius perpensa , reapse est determinatum. Etenim, parte qualibet eadem ma-
+nente, duae reliquae partes debent effe invicem aequaleS, ut quadratorum summa
+
+(pofita unius partis constantia) fit omnium minima. Proinde partes propofitae
+
+bina} sumtae debent effe invicem aequales3 unde tres partes debent esse invicem
+aequales. Ratiocinium hoc applicatur ad numerum quemcunque partium, in
+
+quas summa data est dividenda, ut partium quadratorum summa fit omnium
+minima. Transeo ad computum.
+
+Sit S summa data 3 ὅ( fint x, .y, z partes quaesitae.
+
+Eritideo x÷y÷z=s „
+xx 4 yy 4- zz = minimo, Sit v quantitas quaedam mutabilis», cujus
+mutationes pro constantibus sumantur.
+
+Erit
+

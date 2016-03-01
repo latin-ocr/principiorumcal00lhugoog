@@ -1,0 +1,41 @@
+³3
+logarithmicae (ad Asymptotum tanquam Axem relatae) comprehensum, accu-
+
+rate aequale est restangulo fastu ex subtangente & differentia illarum appli-
+
+catarum. Atqui minor' harum ordinatarum potest reddi minor linea quacun·
+’ que magnitudine data,· proinde major harum ordinatarum limes est differen-
+tiae crescentis earundem. Et restangulum saecum ex subtangente ὅ( majori
+· ordinata, est limes spatii logarithmici crescentis, quem spatium hoc nun-
+
+’ 'q'uam attingit, sed ad quem accedere potest propius quam spatium quodcunque
+“ dato praedisto restangulo minus· ⁴ ⁹
+
+Exemplum ΝΜ- Demonstrante ARcmMEnE (de Sphoera c& cylindro)
+iicet circulo inscribere ἀ circumscribere polygona ordinata cognomina seu
+’ similia , quorum ambitus ὅ( superficies ab ambitu δι superficie circuli “dif-
+ferunt minus quam ulla linea aut ulla superficie affignata. ‘Jam vero am«
+bitus δι superficies circuli majores . sunt perimetris ὅ( superficiebus polygo-
+norum inscriptorum ‚· minores vero perimetris & superficiebus polygonorum
+circumscriptorum.¹ Ideo ambitus & superficies circuli sunt respefflve limi-
+tes perimetrorum & superficierum (crescentium aut decrescentium) polygono-
+rum ordinatorum, quae circulo inscribuntur, aut eidem circumscribuntur. Eo· f
+fldem modo se habent superficies <Sc capacitates cylindrorum, conomm, sphae-
+. rarum , ad superficies ac solida prismatum, pyramidum, polyhedrorum, illis
+inscriptorum aut circumscriptorum.
+
+Item: Ratio aequalitatis limes est rationum crescentium aut decrescen⁴
+tium, quas perimetri aut superficies polygonatum regularium circulo inscrip-
+‘torum aut circumscriptorum habent ad ambitum δε superficiem circuli. Idem
+f <valet ‘de rationibuS, quas cylindri, coni, sphaerae habent ad prismata, pyrami- Α
+. deS, polyhedra, ipfis inscripta aut circumscrIpta. ’
+
+. Exemplum 3c1um, Sit curva quaecunque ad axem aliquem relata. Reaae
+huic= axi ordinatim applicatae contin-uo crescant; a zero usque ad maximam
+ipsarum, quae sumatur pro basi. Axis dividatur in partes quotcunque inter se
+·aequa1es. Per omnia punsta divisionis ducantur ‹ad curvam restae axi ordi·
+natim applicatae. Super bafi ὅ( omnibus restis ordinatim ‘applicatis construan-
+
+·tur versus verticem parallelogramma, quorum altera latera fint partes aequa-
+“ A 2 ² ’ les
+
