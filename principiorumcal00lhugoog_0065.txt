@@ -1,0 +1,46 @@
+titatis mutabilis x, qualis sequitur.
+. εἶα Ax²÷Bxb÷Cxc÷Dxd÷....Lx¹÷Mxm4an
+Dico, funstionem Q posse fieri minorem quacunque quantitate proposita.
+
+construe-tio. Determinetur quantitas x, fic, ut quilibet terminus seriei pro-
+pofitae inde a primo Αοεΐι major sit termino qui illum immediate sequitur bis
+
+sumtb. Scilicet, fi duo teerini quicunque contigui ‚ fint Lx1, Mxm3 fiat
+
+Lx¹ > 2Mx¹¹¹3 seu ,cm-1< ..Ξ-Μς & fiat x minor quolibet horum valorum ita
+determinatorum
+
+Primus Cafies· . Omnes coe’fficientes A, B, C, D. . ζ L, M, N {int positivi.
+
+Quoniam unusquisque terminus major est termino* qui illum immediate
+sequitur bis sumto ‚ quilibet terminus major est vsumma omnium terminorum
+subsequentium, & nominatim, primus terminus Axa major est summa omnium
+reliquorum· Proinde Q< 2Ax² . Atqui cum x fieri poffit minor quacunque quan-
+titate data, a fortiori xa potest reddi minor quacunque quantitate data ‚ δι etiam -
+(§. 6.) ¹2Ax² potest reddi minor quacunque quantitate proposlta5 ὅ( proinde Q
+potest reddi minor quacunque quantitate propofita.
+
+Secundus Cqfias. Coe‘fficientes dati B ,, C, D. E . . . . L, M, N, qui pri-
+mum sequuntur, non smt omnes positivi.
+
+Omnibus ut ante faffis, tanto magis hoc casu erit Q<2Ax² ς unde Q potest
+reddi minor quacunque quantitate propofita.
+
+Quod fi A fit quantitas negativa: omnia pariter vera erunt, fignis mutatis,
+
+’ Νοηιίηωὶω. Exponentes a, b, c, d ¹· · · · l, m, ng sequantur progreffionem
+
+arithmeticam numerorum naturalium ; ita ut fit
+
+Q = Ax ÷le2 -ἱ- Cx³44 Dx⁴ 44 . . Lym-2 4- Mam-1 ..Ι- an.
+’ Fasto Q<2Ax‚ poterit Q effe minor quacunque quantitate proposita. Et quo·
+niam hic casus est omnium frequentiffimus: ad illum observationes sequentes·
+earumque demonstrationes applicare sufficiet. ·
+
+observatio 1 ⁵ Quaecunque dieta sunt de ratione dupla, potuissent etiam dici
+de quavis alia ratione majoris ad minorem. Scilicet, p existente numero ma-
+jore unitate, fi ratio cujuslibet termini seriei Q ad terminum, qui illum im-
+
+mediate sequitur, satta fuerit major ratione numeri p ad unitatem, erit
+D Q<'
+

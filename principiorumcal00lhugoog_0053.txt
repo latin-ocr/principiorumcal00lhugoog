@@ -1,0 +1,52 @@
+13
+
+,corollarium 2. Sit quantitas mutabiliS, quae minor fieri potest quacunque
+quantitate data: & ea quantitas multiplicetur per numerum quemcunque η
+(pofitivum). Dico, produttum inde ortum posse etiam minus fieri quacunque
+quantitate proposita. .
+
+Sit n numerus integer: res patet per· propositionem.
+
+Si vero n non fit numerus integer: fiat produstum ex quantitate mutabili
+per numerum integrum, ipso η proxime majorem, minus quantitate data: erit
+a fortiori produstum ex quantitate mutabili per numerum n minus eadem quan- -
+titat'e· data. ’ “
+
+§. 7. . Theoremata varia.
+
+1⁰. Si rationis mutabilis crescentis v. gr. (a) X : Y limes fit ratio data
+A : Β. Erit (invertendo) rationis decrescentis Y 7ε X limes ratio B : A.
+
+'Quoniam (per hyp.) X: Y <2 A. B
+
+est Y: X> B: A. SitB‘,:>B &proindeB': A>Bz A-
+dico fieri poss'e Y. X < B': A. ⁶
+Etenim per hyp. fieri potest X: Y > A: Β,
+fiat3 ὅ( erit Y: X <2 B': A.
+
+2⁰ .Si rationis mutabilis crescentis v. gr. X. Y limes fit ratio data A. B:
+erit (convertendo) rationis mutabilis decrescentis X: X — Y, limes ratio data
+A : A—B.
+
+. · Quoniam (perhyp) X: Y < A: Β
+
+est X: x-Y> A. A....:B, Sit 33ῐεῖ B' Ξ Bb, ‚&proinde
+-- -B
+& A: A-H> A. A—B
+Dico fieri poss'e ‘ sz-Y < A: A—B'. η
+Etenimquoniam Β’>Β; est A: B<A : Β;
+· Sed (per hyp.) fieri potest X : Y 5> A : B‘,
+Fiat; &erit ·- -Δ - X:X—Y<A: A-H.
+
+Si rationis mutabilis crescentis v. gr. X: Y, limes fit ratio data A: B:
+
+erit εὲῇξέἓὲἓέο ra tionis mutabilis crescentis X ss Y. Y limes, ratio data ·
+
+Assss. B. ·
+’ 133 Quo-
+
+(a) Qutoeunque dicam de ratione crescente, dicta intelligantur de ratione decrescente,
+:mu atie mutandis.
+
+ΥΦ..
+
